@@ -134,6 +134,10 @@ Reducing Triggering Cost often produces significantly greater system-wide improv
 
 ---
 
+![Fig-202-Triggering-Cost-and-Runtime-Economics.png](./figures/Fig-202-Triggering-Cost-and-Runtime-Economics.png)
+
+---
+
 # 6. Triggering Cost in Structural Intelligence
 
 Each Structural Intelligence framework contributes to reducing Triggering Cost.

@@ -192,6 +192,10 @@ The ecosystem gradually evolves from isolated applications toward interconnected
 
 ---
 
+![Fig-205-AI-Triggering-Economy-Ecosystem.png](./figures/Fig-205-AI-Triggering-Economy-Ecosystem.png)
+
+---
+
 # 9. Implications for AI Industry
 
 The emergence of Triggering Services may reshape AI competition.

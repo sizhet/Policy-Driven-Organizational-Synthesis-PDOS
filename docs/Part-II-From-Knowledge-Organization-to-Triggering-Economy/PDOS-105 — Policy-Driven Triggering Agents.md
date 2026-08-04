@@ -138,6 +138,10 @@ The result is an organizational network rather than a collection of independent 
 
 ---
 
+![Fig-204-Policy-Driven-Triggering-Agents.png](./figures/Fig-204-Policy-Driven-Triggering-Agents.png)
+
+---
+
 # 7. Policy-Driven Triggering across Structural Intelligence
 
 Policy-Driven Triggering Agents naturally integrate previous Structural Intelligence research.

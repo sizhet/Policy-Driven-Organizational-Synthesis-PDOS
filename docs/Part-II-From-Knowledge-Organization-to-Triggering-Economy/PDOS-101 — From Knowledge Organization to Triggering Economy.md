@@ -10,6 +10,10 @@ This evolution gives rise to the concept of the **Triggering Economy**, in which
 
 ---
 
+![Fig-200-From-Knowledge-Organization-to-Triggering-Economy.png](./figures/Fig-200-From-Knowledge-Organization-to-Triggering-Economy.png)
+
+---
+
 # 1. Introduction
 
 Modern AI systems have achieved unprecedented capabilities in representing and generating knowledge. Databases, search engines, knowledge graphs, retrieval systems, and large language models have dramatically improved the accessibility of information.

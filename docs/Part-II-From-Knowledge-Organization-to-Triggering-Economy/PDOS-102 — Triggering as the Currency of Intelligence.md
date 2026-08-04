@@ -99,6 +99,10 @@ The larger and more complex an intelligent system becomes, the more valuable eac
 
 ---
 
+![Fig-201-Triggering-as-the-Currency-of-Intelligence.png](./figures/Fig-201-Triggering-as-the-Currency-of-Intelligence.png)
+
+---
+
 # 5. Why Triggering Is Scarce
 
 Knowledge can often be duplicated at negligible cost.

@@ -94,6 +94,10 @@ Rather than directly executing computation, policies organize computational acti
 
 ---
 
+![Fig-203-Organizational-Policies-as-Runtime-Infrastructure.png](./figures/Fig-203-Organizational-Policies-as-Runtime-Infrastructure.png)
+
+---
+
 # 5. Separating Policy from Computation
 
 A central principle of PDOS is the separation between computational capability and organizational governance.
