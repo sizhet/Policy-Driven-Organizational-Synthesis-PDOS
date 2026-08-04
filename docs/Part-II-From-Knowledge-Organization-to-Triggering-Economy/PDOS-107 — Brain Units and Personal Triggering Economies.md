@@ -209,6 +209,12 @@ Together these components form the Personal Triggering Economy, enabling individ
 
 # Suggested Figure
 
+---
+
+![Fig-206-Personal-and-Enterprise-Triggering-Economies.png](./figures/Fig-206-Personal-and-Enterprise-Triggering-Economies.png)
+
+---
+
 **Fig-206 — Brain Units and Personal Triggering Economies**
 
 **Description**

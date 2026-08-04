@@ -142,6 +142,10 @@ Together these frameworks establish a unified architecture for open intelligent 
 
 ---
 
+![Fig-207-Triggering-Economy-Landscape.png](./figures/Fig-207-Triggering-Economy-Landscape.png)
+
+---
+
 # 8. Toward Federated Organizational Intelligence
 
 Open Triggering Ecosystems support a new form of distributed intelligence.

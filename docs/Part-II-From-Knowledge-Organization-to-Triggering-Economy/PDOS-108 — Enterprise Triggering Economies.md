@@ -214,6 +214,12 @@ PDOS therefore proposes the Enterprise Triggering Economy as a new architectural
 
 # Suggested Figure
 
+---
+
+![Fig-207-Triggering-Economy-Landscape.png](./figures/Fig-207-Triggering-Economy-Landscape.png)
+
+---
+
 **Fig-207 — Enterprise Triggering Economies**
 
 **Description**

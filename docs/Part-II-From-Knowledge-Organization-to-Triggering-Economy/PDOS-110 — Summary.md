@@ -8,6 +8,10 @@ By introducing triggering as the operational currency of intelligence, Triggerin
 
 ---
 
+![Fig-207-Triggering-Economy-Landscape.png](./figures/Fig-207-Triggering-Economy-Landscape.png)
+
+---
+
 # 1. From Knowledge Organization to Runtime Organization
 
 Traditional knowledge organization primarily concerns:
