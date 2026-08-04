@@ -252,7 +252,8 @@ FIGURE-INDEX.md
 
 docs/
     Part-I-Foundations/
-    Part-II-Policy-and-Organization/
+    Part-II-From-Knowledge-Organization-to-Triggering-Economy
+    Part-II2 (TBD) -Policy-and-Organization/
     Part-III-Organizational-Synthesis/
     Part-IV-Runtime-Organization/
     Part-V-Applications-and-Future-Directions/
