@@ -101,6 +101,14 @@ Organization becomes
 
 ---
 
+![Fig-200-From-Knowledge-Organization-to-Triggering-Economy.png](./docs/Part-II-From-Knowledge-Organization-to-Triggering-Economy/figures/Fig-200-From-Knowledge-Organization-to-Triggering-Economy.png)
+
+---
+
+![Fig-201-Triggering-as-the-Currency-of-Intelligence.png](./docs/Part-II-From-Knowledge-Organization-to-Triggering-Economy/figures/Fig-201-Triggering-as-the-Currency-of-Intelligence.png)
+
+---
+
 # Open-Domain Organizational Intelligence
 
 Many computational frameworks implicitly assume a closed problem space.
@@ -125,6 +133,14 @@ Policies may continuously generate
 Rather than merely bridging existing structures, PDOS enables the continuous synthesis of new organizational structures.
 
 This provides a computational framework for open-domain organizational intelligence.
+
+---
+
+![Fig-205-AI-Triggering-Economy-Ecosystem.png](./docs/Part-II-From-Knowledge-Organization-to-Triggering-Economy/figures/Fig-205-AI-Triggering-Economy-Ecosystem.png)
+
+---
+
+![Fig-207-Triggering-Economy-Landscape.png](./docs/Part-II-From-Knowledge-Organization-to-Triggering-Economy/figures/Fig-207-Triggering-Economy-Landscape.png)
 
 ---
 
