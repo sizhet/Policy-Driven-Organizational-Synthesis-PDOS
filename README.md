@@ -6,6 +6,10 @@
 
 PDOS introduces a shift from **knowledge organization** to **organizational intelligence**. In this view, organization is not merely a passive representation of information, but an active computational mechanism that influences runtime behavior, decision making, structural adaptation, and long-term competitive advantage.
 
+PDOS is not a theory of storing knowledge.
+
+PDOS is a theory of organizing computation.
+
 ---
 
 # Motivation
@@ -285,3 +289,4 @@ By treating organizational structures as explicit computational objects that can
 
 Rather than viewing organization as the endpoint of knowledge management, PDOS views organization as the beginning of computation.
 
+> **The evolution of artificial intelligence is no longer driven solely by larger models or greater computational capacity. It increasingly depends on how computation is organized, governed, and activated. Policy-Driven Organizational Synthesis positions organizational policies and runtime triggering as the operational foundation of this next stage, establishing the Triggering Economy as a unifying framework for future intelligent systems.**

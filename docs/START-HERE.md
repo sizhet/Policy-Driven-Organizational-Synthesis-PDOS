@@ -101,7 +101,27 @@ Why organizational synthesis is a computational problem.
 
 ---
 
-### Part II — Policy and Organization
+### Part II — From Knowledge Organization to Triggering Economy
+
+If you are interested in
+
+    Knowledge Organization
+            ↓
+    Runtime Organization
+            ↓
+    AI Agents
+            ↓
+    Brain Units
+            ↓
+    Enterprise AI
+            ↓
+    Future AI Economy
+
+begin with this Part II section.
+
+---
+
+### Part II2 (TBD) — Policy and Organization
 
 How policies actively shape organizational structures.
 

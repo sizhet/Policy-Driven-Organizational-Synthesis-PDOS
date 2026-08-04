@@ -50,7 +50,26 @@ Fundamental concepts of Policy-Driven Organizational Synthesis.
 
 ---
 
-# Part II — Policy and Organization
+# Part II — From Knowledge Organization to Triggering Economy
+
+**PDOS-101 ~ PDOS-199**
+
+| ID       | Title                                                |
+| -------- | ---------------------------------------------------- |
+| PDOS-101 | From Knowledge Organization to Triggering Economy    |
+| PDOS-102 | Triggering as the Currency of Intelligence           |
+| PDOS-103 | Triggering Cost and Computational Economics          |
+| PDOS-104 | Organizational Policies as Triggering Infrastructure |
+| PDOS-105 | Policy-Driven Triggering Agents                      |
+| PDOS-106 | The Triggering Economy for AI Services               |
+| PDOS-107 | Brain Units and Personal Triggering Economies        |
+| PDOS-108 | Enterprise Triggering Economies                      |
+| PDOS-109 | Open Triggering Ecosystems                           |
+| PDOS-110 | Summary                                              |
+
+---
+
+# Part II2 (TBD) — Policy and Organization
 
 **PDOS-101 ~ PDOS-199**
 

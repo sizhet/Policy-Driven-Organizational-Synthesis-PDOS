@@ -287,3 +287,17 @@ policies become engineering instruments,
 and organizational intelligence becomes an essential component of intelligent computation.
 
 PDOS seeks to provide the conceptual and engineering foundation for that future.
+
+# Current milestone
+
+✓ Policy-Driven Organizational Synthesis
+✓ Triggering Economy
+✓ Organizational Policies
+✓ Policy-Driven Triggering Agents
+
+Next milestone
+
+Runtime Organizational Infrastructure
+Policy Runtime Engine
+Triggering Protocol
+Reference Implementation

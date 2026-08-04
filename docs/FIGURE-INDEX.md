@@ -53,7 +53,24 @@ These figures introduce the overall concepts of the repository.
 
 ---
 
-# Part II — Policy and Organization
+# Part II — From Knowledge Organization to Triggering Economy
+
+## Figures
+
+| Figure      | Title  |
+|---|---|
+| **Fig-200** | From Knowledge Organization to Triggering Economy |
+| **Fig-201** |	Triggering as the Currency of Intelligence |
+| **Fig-202** |	Triggering Cost and Runtime Economics |
+| **Fig-203** |	Organizational Policies as Runtime Infrastructure |
+| **Fig-204** |	Policy-Driven Triggering Agents |
+| **Fig-205** |	AI Triggering Economy Ecosystem |
+| **Fig-206** |	Personal and Enterprise Triggering Economies |
+| **Fig-207** |	Triggering Economy Landscape |
+
+---
+
+# Part II2 (TBD) — Policy and Organization
 
 ## Figures
 
