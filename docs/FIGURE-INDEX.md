@@ -70,63 +70,40 @@ These figures introduce the overall concepts of the repository.
 
 ---
 
-# Part II2 (TBD) — Policy and Organization
+# Part III — Part-III - Policy-Driven Runtime Architecture
 
 ## Figures
 
-| Figure      | Title                                      | Description                                                             |
-| ----------- | ------------------------------------------ | ----------------------------------------------------------------------- |
-| **Fig-200** | Part II Overview — Policy and Organization | Overview of policy-driven organizational principles.                    |
-| **Fig-201** | Organizational Policy Layers               | Multi-layer organizational policies guiding synthesis.                  |
-| **Fig-202** | Policy-Driven Organizational Objectives    | Relationship between goals, policies, and synthesized organizations.    |
-| **Fig-203** | Organizational Constraints                 | Constraints shaping organizational evolution.                           |
-| **Fig-204** | Organizational Evaluation                  | Evaluating competing organizational structures under shared objectives. |
-| **Fig-205** | Organizational Optimization                | Continuous refinement of organizational structures.                     |
+| Figure      | Title  |
+|---|---|
+| **Fig-300** | Engineering-the-Triggering-Economy.png |
+| **Fig-301** | Organizational-Runtime-Pipeline.png |
+| **Fig-302** | Policy-Runtime-Engine.png |
+| **Fig-303** | Trigger-Selection-and-Dispatch.png |
+| **Fig-304** | Runtime-Organizational-Graphs.png |
+| **Fig-305** | Organizational-Feedback-and-Validation.png |
+| **Fig-306** | Runtime-Policy-Evolution.png |
+| **Fig-307** | Organizational-Runtime-APIs.png |
+| **Fig-308** | Reference-Runtime-Architecture.png |
+| **Fig-309** | Part-III-Summary—Policy-Driven-Runtime-Architecture.png |
 
 ---
 
-# Part III — Organizational Synthesis
+# Part-IV - Toward Organizational Intelligence
 
 ## Figures
 
-| Figure      | Title                                        | Description                                                            |
-| ----------- | -------------------------------------------- | ---------------------------------------------------------------------- |
-| **Fig-300** | Part III Overview — Organizational Synthesis | Overview of organizational synthesis mechanisms.                       |
-| **Fig-301** | Policy-Driven Organizational Pipeline        | End-to-end pipeline from policy to organizational structures.          |
-| **Fig-302** | Policy-Driven Difference Trees               | Generation of Difference Trees under explicit policies.                |
-| **Fig-303** | Organizational Expansion                     | Continuous synthesis of new organizational structures.                 |
-| **Fig-304** | Organizational Comparison                    | Comparing multiple synthesized organizations under different policies. |
-| **Fig-305** | Organizational Reorganization                | Structural evolution driven by new observations and policies.          |
-
----
-
-# Part IV — Runtime Organization
-
-## Figures
-
-| Figure      | Title                                   | Description                                                                   |
-| ----------- | --------------------------------------- | ----------------------------------------------------------------------------- |
-| **Fig-400** | Part IV Overview — Runtime Organization | Runtime behavior emerging from synthesized organizations.                     |
-| **Fig-401** | Organizational Dispatch                 | Organizations guiding computational dispatch.                                 |
-| **Fig-402** | Organization and GTDO                   | Relationship between organizational synthesis and computational organization. |
-| **Fig-403** | Organization and FTRI Switching         | Organizational structures serving as runtime triggers for switching.          |
-| **Fig-404** | Runtime Organizational Ecology          | Multiple organizations interacting within runtime systems.                    |
-| **Fig-405** | Runtime Organization Summary            | Summary of runtime organizational intelligence.                               |
-
----
-
-# Part V — Applications and Future Directions
-
-## Figures
-
-| Figure      | Title                                                | Description                                                                              |
-| ----------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| **Fig-500** | Part V Overview — Applications and Future Directions | Overview of application domains and future research.                                     |
-| **Fig-501** | Three-Cat Recognition                                | Demonstrates small-scale policy-driven organizational synthesis during concept learning. |
-| **Fig-502** | Local Organizational Intelligence                    | Independent organizational evolution within localized computational regions.             |
-| **Fig-503** | Scientific Organizational Discovery                  | Organizational synthesis supporting scientific exploration and hypothesis generation.    |
-| **Fig-504** | Strategic Organizational Intelligence                | Organizational synthesis for strategic planning and competitive advantage.               |
-| **Fig-505** | Organizational Computational Ecology                 | Large-scale interactions among evolving organizational systems.                          |
+| Figure      | Title  |
+|---|---|
+| **Fig-400** | Part-IV-Overview—Toward-Organizational-Intelligence.png |
+| **Fig-401** | What-Is-Policy-Driven-Organizational-Synthesis.png |
+| **Fig-402** | From-Knowledge-to-Behavioral-Instruments.png |
+| **Fig-403** | Organizational-Compression-versus-Gap-Bridging.png |
+| **Fig-404** | Policy-as-Perspective—One-Dataset-Multiple-Tool-Trees.png |
+| **Fig-405** | Perspective-Validation-and-Structural-Coverage.png |
+| **Fig-406** | From-Computational-Infrastructure-to-Organizational-Infrastructure.png |
+| **Fig-407** | Recursive-Organizational-Synthesis.png |
+| **Fig-408** | Automation-Extension-and-Scale—Toward-Organizational-Intelligence.png
 
 ---
 
@@ -142,17 +119,13 @@ Fig-100 ~ Fig-199
 Part I — Foundations
 
 Fig-200 ~ Fig-299
-Part II — Policy and Organization
+Part II — From Knowledge Organization to Triggering Economy
 
 Fig-300 ~ Fig-399
-Part III — Organizational Synthesis
+Part III — Policy-Driven Runtime Architecture
 
 Fig-400 ~ Fig-499
-Part IV — Runtime Organization
-
-Fig-500 ~ Fig-599
-Part V — Applications and Future Directions
-```
+Part IV — Toward Organizational Intelligence
 
 This numbering scheme is expected to remain stable as the repository expands.
 
