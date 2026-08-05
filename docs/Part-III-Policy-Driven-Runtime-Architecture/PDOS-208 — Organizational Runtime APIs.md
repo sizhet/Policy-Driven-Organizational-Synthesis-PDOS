@@ -64,6 +64,10 @@ PDOS uses interfaces to preserve architectural separation.
 
 ---
 
+![Fig-307-Organizational-Runtime-APIs.png](./figures/Fig-307-Organizational-Runtime-APIs.png)
+
+---
+
 ## 2. APIs as Organizational Boundaries
 
 An API is not merely a technical call surface.

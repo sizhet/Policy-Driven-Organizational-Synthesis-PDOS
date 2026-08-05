@@ -72,6 +72,10 @@ This separation preserves a critical distinction:
 
 ---
 
+![Fig-302-Policy-Runtime-Engine.png](./figures/Fig-302-Policy-Runtime-Engine.png)
+
+---
+
 ## 3. Policy as Executable Organization
 
 Traditional policies often exist as documents or operational instructions.

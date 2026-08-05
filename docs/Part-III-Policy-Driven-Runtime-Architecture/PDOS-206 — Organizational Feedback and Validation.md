@@ -1391,6 +1391,12 @@ Organizational Feedback and Validation follow several principles.
 
 Unvalidated execution should not modify policy.
 
+---
+
+![Fig-305-Organizational-Feedback-and-Validation.png](./figures/Fig-305-Organizational-Feedback-and-Validation.png)
+
+---
+
 ### 53.2 Operational Success Is Not Organizational Acceptance
 
 A completed computation may still be invalid.

@@ -1,5 +1,11 @@
 # PDOS-210 — Summary
 
+---
+
+![Fig-309-Part-III-Summary—Policy-Driven-Runtime-Architecture.png](./figures/Fig-309-Part-III-Summary—Policy-Driven-Runtime-Architecture.png)
+
+---
+
 ## Abstract
 
 Part III has translated the Triggering Economy from a theoretical and economic framework into an executable engineering architecture. It established **Policy-Driven Runtime Architecture** as the implementation foundation of Policy-Driven Organizational Synthesis (PDOS) and defined the major runtime components required to organize, authorize, select, dispatch, execute, validate, observe, and evolve computation under explicit organizational policy.

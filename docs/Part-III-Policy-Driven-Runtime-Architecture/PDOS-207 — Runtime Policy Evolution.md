@@ -839,6 +839,10 @@ Lifecycle state determines whether and where the policy may be evaluated.
 
 ---
 
+![Fig-306-Runtime-Policy-Evolution.png](./figures/Fig-306-Runtime-Policy-Evolution.png)
+
+---
+
 ## 30. Staged Deployment
 
 A new policy should often be deployed gradually.

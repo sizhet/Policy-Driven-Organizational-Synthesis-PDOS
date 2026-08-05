@@ -34,6 +34,10 @@ PDOS defines this process as the **Organizational Runtime Pipeline**.
 
 ---
 
+![Fig-301-Organizational-Runtime-Pipeline.png](./figures/Fig-301-Organizational-Runtime-Pipeline.png)
+
+---
+
 ## 2. The Complete Pipeline
 
 The Organizational Runtime Pipeline can be represented as:

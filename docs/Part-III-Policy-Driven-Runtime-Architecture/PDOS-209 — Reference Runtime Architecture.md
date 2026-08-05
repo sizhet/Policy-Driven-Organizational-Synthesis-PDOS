@@ -14,6 +14,10 @@ Its central purpose is to provide a concrete and testable foundation for enginee
 
 ---
 
+![Fig-308-Reference-Runtime-Architecture.png](./figures/Fig-308-Reference-Runtime-Architecture.png)
+
+---
+
 ## 1. Introduction
 
 A computational architecture becomes useful when its concepts can be assembled into one operational system.

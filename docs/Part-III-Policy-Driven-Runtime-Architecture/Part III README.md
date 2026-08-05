@@ -18,6 +18,10 @@ This part defines the runtime pipeline, policy engine, triggering mechanisms, or
 
 ---
 
+![Fig-300-Engineering-the-Triggering-Economy.png](./figures/Fig-300-Engineering-the-Triggering-Economy.png)
+
+---
+
 ## Part III Thesis
 
 > **Policy is executable organization.**

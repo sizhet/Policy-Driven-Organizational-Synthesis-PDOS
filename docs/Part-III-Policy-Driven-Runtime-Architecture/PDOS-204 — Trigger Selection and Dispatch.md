@@ -82,6 +82,10 @@ This separation allows each stage to be tested, optimized, and audited independe
 
 ---
 
+![Fig-303-Trigger-Selection-and-Dispatch.png](./figures/Fig-303-Trigger-Selection-and-Dispatch.png)
+
+---
+
 ## 3. Inputs to Trigger Selection
 
 The Trigger Selector should receive structured input rather than a raw user request.

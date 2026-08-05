@@ -105,6 +105,10 @@ The graph therefore describes not merely system topology, but runtime organizati
 
 ---
 
+![Fig-304-Runtime-Organizational-Graphs.png](./figures/Fig-304-Runtime-Organizational-Graphs.png)
+
+---
+
 ## 3. Why a Flat Registry Is Insufficient
 
 A flat component registry may answer:
