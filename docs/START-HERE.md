@@ -97,11 +97,15 @@ Readers new to PDOS are encouraged to follow the repository in order.
 
 ### Part I — Foundations
 
+Part-III discusses why is PDOS?
+
 Why organizational synthesis is a computational problem.
 
 ---
 
 ### Part II — From Knowledge Organization to Triggering Economy
+
+Part-III discusses what value can PDOS bring in?
 
 If you are interested in
 
@@ -119,29 +123,15 @@ If you are interested in
 
 begin with this Part II section.
 
----
+### Part-III - Policy-Driven Runtime Architecture
 
-### Part II2 (TBD) — Policy and Organization
-
-How policies actively shape organizational structures.
+Part-III discusses PDOS engineering architecture.
 
 ---
 
-### Part III — Organizational Synthesis
+### Part-IV - Toward Organizational Intelligence
 
-Core computational mechanisms for synthesizing Difference Trees, organizational structures, and organizational intelligence.
-
----
-
-### Part IV — Runtime Organization
-
-How synthesized organizations influence runtime computation, decision making, dispatching, and switching.
-
----
-
-### Part V — Applications and Future Directions
-
-Applications ranging from small-scale concept learning to scientific discovery, strategic planning, AI systems, biological intelligence, and open-domain organizational evolution.
+Part-IV discusses where PDOS leads to?
 
 ---
 
@@ -220,6 +210,47 @@ Instead, PDOS provides an additional computational layer that organizes, synthes
 The objective is not simply to organize knowledge.
 
 The objective is to organize computation itself.
+
+---
+
+# Recommended Reading
+
+For readers who are new to PDOS:
+
+    PDOS-001
+    ↓
+    
+    PDOS-004
+    
+    ↓
+    
+    PDOS-101
+    
+    ↓
+    
+    PDOS-201
+    
+    ↓
+    
+    PDOS-301
+    
+    ↓
+    
+    PDOS-401
+    
+    ↓
+    
+    PDOS-403
+    
+    ↓
+    
+    PDOS-406
+    
+    ↓
+    
+    PDOS-408
+
+This sequence provides the shortest path from the basic concepts of Policy-Driven Organizational Synthesis to its long-term vision of Organizational Intelligence.
 
 ---
 
