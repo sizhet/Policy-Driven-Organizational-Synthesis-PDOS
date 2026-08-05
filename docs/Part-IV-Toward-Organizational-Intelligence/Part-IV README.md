@@ -60,6 +60,10 @@ It positions PDOS as a framework for:
 
 ---
 
+![Fig-400-Part-IV-Overview—Toward-Organizational-Intelligence.png](./figures/Fig-400-Part-IV-Overview—Toward-Organizational-Intelligence.png)
+
+---
+
 ## Central Thesis
 
 The central thesis of Part IV is:

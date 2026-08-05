@@ -918,6 +918,10 @@ Runtime perspective selection allows the system to preserve multiple instruments
 
 ---
 
+![Fig-404-Policy-as-Perspective—One-Dataset-Multiple-Tool-Trees.png](./figures/Fig-404-Policy-as-Perspective—One-Dataset-Multiple-Tool-Trees.png)
+
+---
+
 ## 26. Perspective Authority
 
 A perspective can influence observation without having authority to act.

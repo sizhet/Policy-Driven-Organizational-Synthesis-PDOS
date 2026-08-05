@@ -22,6 +22,10 @@ Its long-term importance lies in three properties:
 
 ---
 
+![Fig-401-What-Is-Policy-Driven-Organizational-Synthesis.png](./figures/Fig-401-What-Is-Policy-Driven-Organizational-Synthesis.png)
+
+---
+
 ## 1. Why a Formal Definition Is Necessary
 
 PDOS may initially appear similar to several established forms of computation:

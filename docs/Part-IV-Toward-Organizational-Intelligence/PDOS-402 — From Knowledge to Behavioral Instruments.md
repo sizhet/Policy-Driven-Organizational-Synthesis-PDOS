@@ -26,6 +26,10 @@ PDOS therefore moves beyond knowledge organization toward the construction of re
 
 ---
 
+![Fig-402-From-Knowledge-to-Behavioral-Instruments.png](./figures/Fig-402-From-Knowledge-to-Behavioral-Instruments.png)
+
+---
+
 ## 1. The Difference Between Knowing and Acting
 
 Knowledge and action are related, but they are not equivalent.

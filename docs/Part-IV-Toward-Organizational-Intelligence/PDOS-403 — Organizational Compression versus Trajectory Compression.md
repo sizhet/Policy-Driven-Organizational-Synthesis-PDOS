@@ -26,6 +26,10 @@ The two approaches are complementary in many systems, but they are not interchan
 
 ---
 
+![Fig-403-Organizational-Compression-versus-Gap-Bridging.png](./figures/Fig-403-Organizational-Compression-versus-Gap-Bridging.png)
+
+---
+
 ## 1. Compression Is Unavoidable
 
 Raw historical data is rarely usable directly.
