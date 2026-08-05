@@ -12,6 +12,10 @@ PDOS is a theory of organizing computation.
 
 ---
 
+![Fig-000-What-Is-PDOS.png](./docs/figures/Fig-000-What-Is-PDOS.png)
+
+---
+
 # Motivation
 
 Most existing computational organization methods focus on discovering existing structures.
@@ -77,6 +81,12 @@ It becomes continuously synthesizable, optimizable, and reusable.
 ---
 
 # From Knowledge Organization to Organizational Intelligence
+
+---
+
+![Fig-001-From-Knowledge-to-Behavioral-Instruments.png](./docs/figures/Fig-001-From-Knowledge-to-Behavioral-Instruments.png)
+
+---
 
 Traditional organization emphasizes
 
@@ -145,6 +155,14 @@ This provides a computational framework for open-domain organizational intellige
 ---
 
 ![Fig-207-Triggering-Economy-Landscape.png](./docs/Part-II-From-Knowledge-Organization-to-Triggering-Economy/figures/Fig-207-Triggering-Economy-Landscape.png)
+
+---
+
+![Fig-002-Organizational-Compression-versus-Gap-Bridging.png](./docs/figures/Fig-002-Organizational-Compression-versus-Gap-Bridging.png)
+
+---
+
+![Fig-003-Toward-Organizational-Intelligence.png](./docs/figures/Fig-003-Toward-Organizational-Intelligence.png)
 
 ---
 
@@ -253,13 +271,39 @@ FIGURE-INDEX.md
 docs/
     Part-I-Foundations/
     Part-II-From-Knowledge-Organization-to-Triggering-Economy
-    Part-II2 (TBD) -Policy-and-Organization/
-    Part-III-Organizational-Synthesis/
-    Part-IV-Runtime-Organization/
-    Part-V-Applications-and-Future-Directions/
+    Part-III-Policy-Driven-Runtime-Architecture/
+    Part-IV-Toward-Organizational-Intelligence/
 
 figures/
 ```
+## Part IV: Toward Organizational Intelligence
+
+Part IV extends PDOS beyond knowledge organization and runtime architecture toward a broader theory of **Organizational Intelligence**.
+
+Rather than viewing AI primarily as a prediction engine or a collection of computational tools, Part IV proposes that future AI systems may increasingly function as **organizational systems** capable of synthesizing reusable behavioral instruments from historical experience.
+
+The central ideas introduced in this part include:
+
+- Policy-Driven Organizational Synthesis (PDOS)
+- Behavioral Instruments
+- Organizational Compression
+- Structural Coverage
+- Perspective Validation
+- Organizational Instruments
+- Recursive Organizational Synthesis
+- Organizational Intelligence
+
+Together these concepts describe a transition from:
+
+    Knowledge
+          ↓
+    Behavioral Instruments
+          ↓
+    Runtime Organizations
+          ↓
+    Recursive Organizational Ecology
+          ↓
+    Organizational Intelligence
 
 ---
 
@@ -291,3 +335,13 @@ By treating organizational structures as explicit computational objects that can
 Rather than viewing organization as the endpoint of knowledge management, PDOS views organization as the beginning of computation.
 
 > **The evolution of artificial intelligence is no longer driven solely by larger models or greater computational capacity. It increasingly depends on how computation is organized, governed, and activated. Policy-Driven Organizational Synthesis positions organizational policies and runtime triggering as the operational foundation of this next stage, establishing the Triggering Economy as a unifying framework for future intelligent systems.**
+
+# Closing Perspective
+
+Policy-Driven Organizational Synthesis begins with historical behavioral evidence but does not end with prediction.
+
+Its objective is to transform experience into reusable organizational instruments that guide future behavior under explicit policy, structural preservation, validation, and runtime evolution.
+
+As these instruments become increasingly automated, structurally extensible, recursively reusable, and scalable, they form progressively richer organizational ecologies.
+
+This repository proposes that Organizational Intelligence may emerge from this progression—not as the intelligence of a single model, but as the intelligence of an evolving ecosystem of policies, tools, actors, knowledge, validation, and runtime organization.
