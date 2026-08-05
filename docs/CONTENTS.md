@@ -54,6 +54,8 @@ Fundamental concepts of Policy-Driven Organizational Synthesis.
 
 **PDOS-101 ~ PDOS-199**
 
+What value can PDOS bring in?
+
 | ID       | Title                                                |
 | -------- | ---------------------------------------------------- |
 | PDOS-101 | From Knowledge Organization to Triggering Economy    |
@@ -69,83 +71,42 @@ Fundamental concepts of Policy-Driven Organizational Synthesis.
 
 ---
 
-# Part II2 (TBD) — Policy and Organization
-
-**PDOS-101 ~ PDOS-199**
-
-How policies synthesize organizational structures.
-
-| ID       | Title                                  |
-| -------- | -------------------------------------- |
-| PDOS-101 | Organizational Policies                |
-| PDOS-102 | Organizational Objectives              |
-| PDOS-103 | Policy Layers                          |
-| PDOS-104 | Policy Engineering                     |
-| PDOS-105 | Organizational Constraints             |
-| PDOS-106 | Organizational Evaluation              |
-| PDOS-107 | Organizational Optimization            |
-| PDOS-108 | Organizational Explainability          |
-| PDOS-109 | Policy-Driven Organizational Evolution |
-
----
-
-# Part III — Organizational Synthesis
+### Part-III - Policy-Driven Runtime Architecture
 
 **PDOS-201 ~ PDOS-299**
 
-Core computational mechanisms for synthesizing organizations.
+PDOS engineering architecture.
 
-| ID       | Title                          |
-| -------- | ------------------------------ |
-| PDOS-201 | Organizational Primitives      |
-| PDOS-202 | Organizational Operators       |
-| PDOS-203 | Policy-Driven Difference Trees |
-| PDOS-204 | Organizational Graphs          |
-| PDOS-205 | Organizational Boundaries      |
-| PDOS-206 | Organizational Composition     |
-| PDOS-207 | Organizational Expansion       |
-| PDOS-208 | Organizational Comparison      |
-| PDOS-209 | Organizational Reorganization  |
-
+| ID       | Title                                                |
+| -------- | ---------------------------------------------------- |
+| PDOS-201 | Engineering the Triggering Economy | 
+| PDOS-202 | Organizational Runtime Pipeline | 
+| PDOS-203 | Policy Runtime Engine | 
+| PDOS-204 | Trigger Selection and Dispatch | 
+| PDOS-205 | Runtime Organizational Graphs | 
+| PDOS-206 | Organizational Feedback and Validation | 
+| PDOS-207 | Runtime Policy Evolution | 
+| PDOS-208 | Organizational Runtime APIs | 
+| PDOS-209 | Reference Runtime Architecture | 
+| PDOS-210 | Summary | 
 ---
 
-# Part IV — Runtime Organization
+### Part-IV - Toward Organizational Intelligence
 
 **PDOS-301 ~ PDOS-399**
 
-How synthesized organizations influence runtime computation.
+Where PDOS leads to?
 
-| ID       | Title                                             |
-| -------- | ------------------------------------------------- |
-| PDOS-301 | Runtime Organizational Intelligence               |
-| PDOS-302 | Runtime Organizational Learning                   |
-| PDOS-303 | Organizational Dispatch                           |
-| PDOS-304 | Organizational Switching                          |
-| PDOS-305 | Organizational Runtime Ecology                    |
-| PDOS-306 | Organization and GTDO                             |
-| PDOS-307 | Organization and FTRI                             |
-| PDOS-308 | Organization and Runtime Computational Primitives |
-| PDOS-309 | Runtime Organization Summary                      |
-
----
-
-# Part V — Applications and Future Directions
-
-**PDOS-401 ~ PDOS-499**
-
-Applications and future research directions.
-
-| ID       | Title                                                            |
-| -------- | ---------------------------------------------------------------- |
-| PDOS-401 | Three-Cat Recognition and Local Organizational Intelligence      |
-| PDOS-402 | Organizational Learning in Children                              |
-| PDOS-403 | Organizational Intelligence in Biological Systems *(Hypothesis)* |
-| PDOS-404 | Scientific Organizational Discovery                              |
-| PDOS-405 | Strategic Organizational Intelligence                            |
-| PDOS-406 | Organizational Simulation and Gaming                             |
-| PDOS-407 | Hybrid AI Organizational Systems                                 |
-| PDOS-408 | Open-Domain Organizational Intelligence                          |
-| PDOS-409 | Toward Organizational Computational Ecology                      |
+| ID       | Title                                                |
+| -------- | ---------------------------------------------------- |
+| PDOS-401 | What Is Policy-Driven Organizational Synthesis | 
+| PDOS-402 | From Knowledge to Behavioral Instruments | 
+| PDOS-403 | Organizational Compression versus Trajectory Compression | 
+| PDOS-404 | Policy as Perspective | 
+| PDOS-405 | Structural Coverage and Perspective Validation | 
+| PDOS-406 | From Computational Tools to Organizational Instruments | 
+| PDOS-407 | Recursive Organizational Synthesis | 
+| PDOS-408 | Toward Organizational Intelligence | 
 
 ---
 
