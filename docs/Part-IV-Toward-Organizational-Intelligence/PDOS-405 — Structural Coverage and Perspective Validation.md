@@ -30,6 +30,10 @@ The central principle is:
 
 ---
 
+![Fig-405-Perspective-Validation-and-Structural-Coverage.png](./figures/Fig-405-Perspective-Validation-and-Structural-Coverage.png)
+
+---
+
 ## 1. Why Accuracy Is Not Enough
 
 Accuracy is important.

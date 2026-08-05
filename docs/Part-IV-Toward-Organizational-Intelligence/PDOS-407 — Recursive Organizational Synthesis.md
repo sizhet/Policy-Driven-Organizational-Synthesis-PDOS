@@ -59,6 +59,10 @@ Recursive synthesis is therefore one possible bridge from isolated AI tools towa
 
 ---
 
+![Fig-407-Recursive-Organizational-Synthesis.png](./figures/Fig-407-Recursive-Organizational-Synthesis.png)
+
+---
+
 ## 1. From Tool Output to Tool Input
 
 Most computational pipelines treat an output as the end of one task.

@@ -40,6 +40,10 @@ to:
 
 ---
 
+![Fig-408-Automation-Extension-and-Scale—Toward-Organizational-Intelligence.png](./figures/Fig-408-Automation-Extension-and-Scale—Toward-Organizational-Intelligence.png)
+
+---
+
 ## 1. From Computational Intelligence to Organizational Intelligence
 
 Computational intelligence is commonly associated with the ability to:

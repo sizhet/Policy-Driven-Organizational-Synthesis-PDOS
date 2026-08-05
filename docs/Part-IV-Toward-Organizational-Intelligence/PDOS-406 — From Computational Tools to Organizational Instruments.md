@@ -57,6 +57,10 @@ It is:
 
 ---
 
+![Fig-406-From-Computational-Infrastructure-to-Organizational-Infrastructure.png](./figures/Fig-406-From-Computational-Infrastructure-to-Organizational-Infrastructure.png)
+
+---
+
 ## 1. Why the Tool Distinction Matters
 
 The word “tool” is broad.
