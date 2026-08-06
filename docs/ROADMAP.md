@@ -89,7 +89,9 @@ Status
 
 # Phase II
 
-## Organizational Theory
+## From Knowledge Organization to Triggering Economy
+
+(TBD) -- rewrite ****
 
 Objectives
 
@@ -114,7 +116,9 @@ A coherent computational theory of organizational synthesis.
 
 # Phase III
 
-## Organizational Runtime
+## Policy-Driven Runtime Architecture
+
+(TBD) -- rewrite ****
 
 Objectives
 
@@ -145,7 +149,9 @@ A unified runtime organizational framework.
 
 # Phase IV
 
-## Organizational Engineering
+## Toward Organizational Intelligence
+
+(TBD) -- rewrite ****
 
 Objectives
 
@@ -169,24 +175,20 @@ Reusable engineering methods based on organizational synthesis.
 
 # Phase V
 
-## Organizational Intelligence
+## Localized Runtime Intelligence
 
-Objectives
+Phase V establishes the computational foundation of Localized Runtime Intelligence.
 
-Explore broader scientific implications.
+The repository now covers
 
-Potential directions include
+- Policy-Driven Organization
+- Runtime Decision
+- Runtime Learning
+- Brain Units
+- Multi-Policy Runtime Intelligence
+- Closed-Loop Organizational Evolution
 
-* open-domain organizational intelligence
-* biological organizational hypotheses
-* developmental learning
-* organizational evolution
-* hybrid AI systems
-* organizational computational ecology
-
-Expected Outcome
-
-An expanded theory of organizational intelligence spanning artificial and biological systems.
+forming the first complete computational framework of Policy-Driven Organizational Synthesis.
 
 ---
 
