@@ -100,6 +100,21 @@ These figures introduce the overall concepts of the repository.
 
 ---
 
+# Part V — Localized Runtime Intelligence
+
+| Figure | Title | Description |
+|---------|-------|-------------|
+| Fig-500 | Localized Runtime Intelligence | Repository overview of Part V. |
+| Fig-501 | From Organizational Routing to Localized Runtime Intelligence | Transition from organizational routing to runtime intelligence. |
+| Fig-502 | The Per-Node X–Y–M Runtime Memory | Runtime memory maintained by localized organizational nodes. |
+| Fig-503 | Decision Landscapes over Localized Runtime Memories | Runtime computational landscapes constructed from X–Y–M experiences. |
+| Fig-504 | Unified Dispatch Framework | Unified interpretation of dispatch methods operating over Decision Landscapes. |
+| Fig-505 | Localized Runtime Learning Loop | Continuous runtime learning over localized organizational nodes. |
+| Fig-506 | From Localized Runtime Intelligence to Brain Units | Emergence of specialized computational units through localized runtime learning. |
+| Fig-507 | Multi-Policy Runtime Forest | Multiple organizational perspectives supporting robust runtime intelligence. |
+| Fig-508 | Closed-Loop Runtime Organization | Continuous organizational evolution through runtime feedback. |
+| Fig-509 | Localized Runtime Intelligence in the Structural Intelligence Landscape | Position of Part V within the Structural Intelligence framework. |
+
 # Figure Numbering Convention
 
 The repository adopts the following numbering convention.
@@ -119,6 +134,10 @@ Part III — Policy-Driven Runtime Architecture
 
 Fig-400 ~ Fig-499
 Part IV — Toward Organizational Intelligence
+
+Fig-500 ~ Fig-599
+Part V — Localized Runtime Intelligence
+
 
 This numbering scheme is expected to remain stable as the repository expands.
 
