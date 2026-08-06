@@ -30,6 +30,10 @@ This transition—from organizational intelligence to localized runtime intellig
 
 ---
 
+![Fig-501-From-Organizational-Routing-to-Localized-Runtime-Intelligence.png](./figures/Fig-501-From-Organizational-Routing-to-Localized-Runtime-Intelligence.png)
+
+---
+
 # 1. Organization Is Not the Final Goal
 
 Policy-driven organization is frequently misunderstood as a classification problem.

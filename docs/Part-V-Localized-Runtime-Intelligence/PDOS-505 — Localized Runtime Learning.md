@@ -142,6 +142,10 @@ runtime intelligence continuously improves through experience accumulation rathe
 
 ---
 
+![Fig-505-Localized-Runtime-Learning-Loop.png](./figures/Fig-505-Localized-Runtime-Learning-Loop.png)
+
+---
+
 # 4. Multiple Learning Mechanisms Can Coexist
 
 Localized Runtime Learning is intentionally algorithm-independent.

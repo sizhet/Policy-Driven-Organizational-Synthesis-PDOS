@@ -264,6 +264,10 @@ and computational evolution become increasingly unified.
 
 ---
 
+![Fig-509-Localized-Runtime-Intelligence-in-the-Structural-Intelligence-Landscape.png](./figures/Fig-509-Localized-Runtime-Intelligence-in-the-Structural-Intelligence-Landscape.png)
+
+---
+
 # 7. Future Research Directions
 
 The framework introduced in Part V establishes numerous directions for future research.

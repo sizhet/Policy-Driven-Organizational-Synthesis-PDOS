@@ -4,6 +4,10 @@
 
 ---
 
+![Fig-500-Localized-Runtime-Intelligence.png](./figures/Fig-500-Localized-Runtime-Intelligence.png)
+
+---
+
 # Overview
 
 Part V introduces the computational foundation that follows **Policy-Driven Organizational Synthesis (PDOS)**.

@@ -148,6 +148,10 @@ every completed runtime cycle contributes directly to future organizational impr
 
 ---
 
+![Fig-508-Closed-Loop-Runtime-Organization.png](./figures/Fig-508-Closed-Loop-Runtime-Organization.png)
+
+---
+
 # 3. Runtime Learning Drives Organizational Evolution
 
 Localized Runtime Learning continuously improves Decision Landscapes.

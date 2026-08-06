@@ -96,6 +96,10 @@ Each execution contributes another experience tuple to the corresponding organiz
 
 ---
 
+![Fig-502-The-Per-Node-X–Y–M-Runtime-Memory.png](./figures/Fig-502-The-Per-Node-X–Y–M-Runtime-Memory.png)
+
+---
+
 # 3. X — Runtime Observation
 
 The first component records the localized runtime state.

@@ -239,6 +239,10 @@ The following sections introduce the principal dispatch methods currently suppor
 
 ---
 
+![Fig-504-Unified-Dispatch-Framework.png](./figures/Fig-504-Unified-Dispatch-Framework.png)
+
+---
+
 # 5. Probability Dispatch
 
 The simplest dispatch strategy assumes that the current runtime observation cannot be further decomposed into more informative structural representations.

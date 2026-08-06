@@ -102,6 +102,10 @@ PDOS refers to this collective runtime environment as the
 
 ---
 
+![Fig-503-Decision-Landscapes-over-Localized-Runtime-Memories.png](./figures/Fig-503-Decision-Landscapes-over-Localized-Runtime-Memories.png)
+
+---
+
 # 3. Decision Landscapes Are Computational Spaces
 
 The word "Landscape" is intentionally chosen.

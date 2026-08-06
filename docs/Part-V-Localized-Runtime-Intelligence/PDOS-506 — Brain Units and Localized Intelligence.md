@@ -104,6 +104,10 @@ within its own localized operational domain.
 
 ---
 
+![Fig-506-From-Localized-Runtime-Intelligence-to-Brain-Units.png](./figures/Fig-506-From-Localized-Runtime-Intelligence-to-Brain-Units.png)
+
+---
+
 # 3. Localization Before Intelligence
 
 One of the central principles of PDOS can now be expressed as
