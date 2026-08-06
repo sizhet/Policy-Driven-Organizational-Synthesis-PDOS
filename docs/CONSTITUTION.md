@@ -166,6 +166,16 @@ Organizational intelligence provides an additional layer through which computati
 
 ---
 
+## Localized Runtime Intelligence
+
+Policy-Driven Organizational Routing determines where runtime computation should occur.
+
+Localized Runtime Intelligence determines how computation should occur after organizational localization.
+
+The separation between organizational routing and localized runtime computation constitutes one of the fundamental architectural principles of Policy-Driven Organizational Synthesis.
+
+---
+
 # Scope
 
 PDOS studies topics including

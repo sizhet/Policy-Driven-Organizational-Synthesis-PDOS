@@ -284,6 +284,9 @@ docs/
 
 figures/
 ```
+
+---
+
 ## Part IV: Toward Organizational Intelligence
 
 Part IV extends PDOS beyond knowledge organization and runtime architecture toward a broader theory of **Organizational Intelligence**.
