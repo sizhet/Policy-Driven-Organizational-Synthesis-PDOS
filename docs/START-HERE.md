@@ -157,6 +157,16 @@ toward
 
 ---
 
+### Part V — Localized Runtime Intelligence
+
+After understanding how Policy-Driven Organizational Synthesis organizes open-domain problems, readers are encouraged to continue with Part V.
+
+Part V introduces the runtime computational framework that operates over policy-driven organizations, including runtime memories, Decision Landscapes, unified dispatch methods, localized learning, Brain Units, and closed-loop organizational evolution.
+
+Readers primarily interested in AI runtime architectures may begin directly with Part V after becoming familiar with the basic concepts introduced in Parts I and II.
+
+---
+
 # Relationship with the Structural Intelligence Series
 
 PDOS occupies the organizational layer within the broader Structural Intelligence architecture.
