@@ -273,6 +273,8 @@ docs/
     Part-II-From-Knowledge-Organization-to-Triggering-Economy
     Part-III-Policy-Driven-Runtime-Architecture/
     Part-IV-Toward-Organizational-Intelligence/
+    Part-V-Toward-Organizational-Intelligence/
+    Part-V-Localized-Runtime-Intelligence/
 
 figures/
 ```
@@ -304,6 +306,38 @@ Together these concepts describe a transition from:
     Recursive Organizational Ecology
           ↓
     Organizational Intelligence
+
+---
+
+## Part V — Localized Runtime Intelligence
+
+---
+
+![Fig-500-Localized-Runtime-Intelligence.png](./docs/Part-V-Localized-Runtime-Intelligence/figures/Fig-500-Localized-Runtime-Intelligence.png)
+
+---
+
+Part V extends Policy-Driven Organizational Synthesis from **organizational intelligence** to **runtime intelligence**.
+
+The previous parts establish how policy-driven organizational structures can localize open-domain problems into computationally meaningful organizational nodes.
+
+Part V investigates what happens **after organizational routing has completed**.
+
+Rather than repeatedly reasoning over an undifferentiated global knowledge space, PDOS introduces **Localized Runtime Intelligence**, where computation operates over localized organizational structures.
+
+Major topics include:
+
+- Per-Node X–Y–M Runtime Memory
+- Decision Landscapes
+- Unified Dispatch Methods
+- Localized Runtime Learning
+- Brain Units
+- Multi-Policy Runtime Intelligence
+- Closed-Loop Runtime Organizations
+
+Together, these concepts establish the first runtime computational architecture built upon Policy-Driven Organizational Synthesis.
+
+For readers interested in future AI runtime architectures, Part V provides the computational bridge connecting organizational intelligence with continuous runtime computation, learning, and organizational evolution.
 
 ---
 
