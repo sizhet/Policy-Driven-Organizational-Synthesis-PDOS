@@ -10,9 +10,15 @@ PDOS is not a theory of storing knowledge.
 
 PDOS is a theory of organizing computation.
 
+> **Policy-Driven Organizational Synthesis (PDOS) is a computational framework that unifies organizational intelligence and localized runtime intelligence through policy-driven organization, runtime computation, continuous learning, and organizational evolution.**
+
 ---
 
 ![Fig-000-What-Is-PDOS.png](./docs/figures/Fig-000-What-Is-PDOS.png)
+
+---
+
+![Fig-500-Localized-Runtime-Intelligence.png](./docs/Part-V-Localized-Runtime-Intelligence/figures/Fig-500-Localized-Runtime-Intelligence.png)
 
 ---
 

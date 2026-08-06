@@ -93,7 +93,7 @@ PDOS engineering architecture.
 
 ### Part-IV - Toward Organizational Intelligence
 
-**PDOS-301 ~ PDOS-399**
+**PDOS-401 ~ PDOS-499**
 
 Where PDOS leads to?
 
@@ -107,6 +107,26 @@ Where PDOS leads to?
 | PDOS-406 | From Computational Tools to Organizational Instruments | 
 | PDOS-407 | Recursive Organizational Synthesis | 
 | PDOS-408 | Toward Organizational Intelligence | 
+
+---
+
+### Part V — Localized Runtime Intelligence
+
+**PDOS-501 ~ PDOS-599**
+
+How localized runtime intelligence operates?
+
+| ID | Title |
+|------|------|
+| PDOS-501 | From Organizational Intelligence to Localized Runtime Intelligence |
+| PDOS-502 | Per-Node X–Y–M Runtime Memory |
+| PDOS-503 | Decision Landscapes |
+| PDOS-504 | Unified Dispatch Methods |
+| PDOS-505 | Localized Runtime Learning |
+| PDOS-506 | Brain Units and Localized Intelligence |
+| PDOS-507 | Multi-Policy Runtime Intelligence |
+| PDOS-508 | Closed-Loop Runtime Organizations |
+| PDOS-509 | Localized Runtime Intelligence |
 
 ---
 

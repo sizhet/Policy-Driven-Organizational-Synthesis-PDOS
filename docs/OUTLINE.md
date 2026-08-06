@@ -17,122 +17,127 @@ Part I
 Foundations
         ↓
 Part II
-Policy and Organization
+From Knowledge Organization to Triggering Economy
         ↓
 Part III
-Organizational Synthesis
+Policy-Driven Runtime Architecture
         ↓
 Part IV
-Runtime Organization
+Toward Organizational Intelligence
         ↓
 Part V
-Applications and Future Directions
+Localized Runtime Intelligence
 ```
 
 ---
 
 # Part I — Foundations
 
-**PDOS-001 ~ PDOS-099**
+PDOS-001 — Why Policy-Driven Organizational Synthesis?
 
-Fundamental principles of organizational intelligence.
+PDOS-002 — From Knowledge Organization to Organizational Intelligence
 
-Topics include
+PDOS-003 — Organization as Computation
 
-* Why Policy-Driven Organizational Synthesis
-* Organization as Computation
-* Organization versus Knowledge Representation
-* From Knowledge Organization to Organizational Intelligence
-* Policy as a Computational Object
-* Organizational Evolution
-* Closed-Domain versus Open-Domain Intelligence
-* Difference Trees as Organizational Assets
-* Organization and Runtime Behavior
-* Foundations Summary
+PDOS-004 — Policy as a Computational Primitive
+
+PDOS-005 — Open-Domain Organizational Intelligence
 
 ---
 
-# Part II — Policy and Organization
+# Part II — From Knowledge Organization to Triggering Economy
 
-**PDOS-101 ~ PDOS-199**
+PDOS-101 — From Knowledge Organization to Triggering Economy
 
-How explicit policies synthesize organizational structures.
+PDOS-102 — Triggering as the Currency of Intelligence
 
-Topics include
+PDOS-103 — Triggering Cost and Computational Economics
 
-* Organizational Policies
-* Organizational Objectives
-* Goal-Driven Organization
-* Policy Layers
-* Organizational Constraints
-* Organizational Evaluation
-* Organizational Optimization
-* Policy Engineering
-* Organizational Explainability
-* Policy and Organizational Evolution
+PDOS-104 — Organizational Policies as Triggering Infrastructure
 
----
+PDOS-105 — Policy-Driven Triggering Agents
 
-# Part III — Organizational Synthesis
+PDOS-106 — The Triggering Economy for AI Services
 
-**PDOS-201 ~ PDOS-299**
+PDOS-107 — Brain Units and Personal Triggering Economies
 
-Core computational mechanisms behind organizational synthesis.
+PDOS-108 — Enterprise Triggering Economies
 
-Topics include
+PDOS-109 — Open Triggering Ecosystems
 
-* Organizational Primitives
-* Organizational Operators
-* Policy-Driven Difference Trees
-* Organizational Graphs
-* Organizational Boundaries
-* Organizational Composition
-* Organizational Expansion
-* Organizational Simulation
-* Organizational Comparison
-* Organizational Reorganization
+PDOS-110 — Summary
 
 ---
 
-# Part IV — Runtime Organization
+# Part III — Policy-Driven Runtime Architecture
 
-**PDOS-301 ~ PDOS-399**
+PDOS-201 — Engineering the Triggering Economy
 
-Runtime computational behavior emerging from synthesized organizations.
+PDOS-202 — Organizational Runtime Pipeline
 
-Topics include
+PDOS-203 — Policy Runtime Engine
 
-* Runtime Organizational Intelligence
-* Runtime Organizational Learning
-* Organizational Dispatch
-* Organizational Switching
-* Organizational Runtime Ecology
-* Organization and GTDO
-* Organization and FTRI
-* Organization and Runtime Computational Primitives
-* Local Organizational Intelligence
-* Runtime Organization Summary
+PDOS-204 — Trigger Selection and Dispatch
+
+PDOS-205 — Runtime Organizational Graphs
+
+PDOS-206 — Organizational Feedback and Validation
+
+PDOS-207 — Runtime Policy Evolution
+
+PDOS-208 — Organizational Runtime APIs
+
+PDOS-209 — Reference Runtime Architecture
+
+PDOS-210 — Summaryn
 
 ---
 
-# Part V — Applications and Future Directions
+# Part IV — Toward Organizational Intelligence
 
-**PDOS-401 ~ PDOS-499**
+PDOS-401 — What Is Policy-Driven Organizational Synthesis
 
-Applications, biological hypotheses, engineering systems, and future research.
+PDOS-402 — From Knowledge to Behavioral Instruments
 
-Topics include
+PDOS-403 — Organizational Compression versus Trajectory Compression
 
-* Three-Cat Recognition
-* Organizational Learning in Children
-* Organizational Intelligence in Animals
-* Scientific Organizational Discovery
-* Strategic Organizational Planning
-* Market Organizational Analysis
-* Military Organizational Intelligence
-* Hybrid AI Organizational Systems
-* Open-Domain Organizational Intelligence
-* Future Directions
+PDOS-404 — Policy as Perspective
+
+PDOS-405 — Structural Coverage and Perspective Validation
+
+PDOS-406 — From Computational Tools to Organizational Instruments
+
+PDOS-407 — Recursive Organizational Synthesis
+
+PDOS-408 — Toward Organizational Intelligence
+
+PDOS-409 — Why PDOS Is a Plausible Organizational Computation Framework
+
+PDOS-410 — PDOS Shadow Transformer Architecture
+
+---
+
+# Part V — Localized Runtime Intelligence
+
+Computation, Decision, and Learning over Policy-Driven Organizations
+
+PDOS-501 — From Organizational Intelligence to Localized Runtime Intelligence
+
+PDOS-502 — Per-Node X–Y–M Runtime Memory
+
+PDOS-503 — Decision Landscapes
+
+PDOS-504 — Unified Dispatch Methods
+
+PDOS-505 — Localized Runtime Learning
+
+PDOS-506 — Brain Units and Localized Intelligence
+
+PDOS-507 — Multi-Policy Runtime Intelligence
+
+PDOS-508 — Closed-Loop Runtime Organizations
+
+PDOS-509 — Localized Runtime Intelligence
 
 ---
 
