@@ -40,6 +40,10 @@ Instead, it proposes a hybrid organizational architecture in which explicit orga
 
 ---
 
+![Fig-414-PDOS-Shadow-Transformer-Architecture.png](./figures/Fig-414-PDOS-Shadow-Transformer-Architecture.png)
+
+---
+
 # 1. Introduction
 
 Large Language Models and Transformer architectures have become the dominant computational paradigm of modern Artificial Intelligence.
@@ -210,6 +214,12 @@ Neither replaces the other.
 # 4. Organizational Trees and Attention Networks
 
 An interesting structural similarity exists between Transformer attention mechanisms and organizational dispatch structures.
+
+---
+
+![Fig-415-Transformer-and-Organizational-Trees.png](./figures/Fig-415-Transformer-and-Organizational-Trees.png)
+
+---
 
 Transformer computation repeatedly performs contextual routing.
 
@@ -421,6 +431,12 @@ This greatly improves organizational specialization.
 
 Perhaps the most direct engineering application of the Shadow Transformer is runtime organizational dispatch.
 
+---
+
+![Fig-416-Shadow-Transformer-Runtime-Dispatch.png](./figures/Fig-416-Shadow-Transformer-Runtime-Dispatch.png)
+
+---
+
 Suppose an explicit organizational tree contains several candidate behavioral branches.
 
 Conceptually,
@@ -624,6 +640,12 @@ The Shadow Transformer Architecture naturally supports another important directi
 
 Brain Unit AI.
 
+---
+
+![Fig-417- Brain-Unit-AI-in-PDOS-Ecosystem.png](./figures/Fig-417- Brain-Unit-AI-in-PDOS-Ecosystem.png)
+
+---
+
 Rather than constructing one universal organizational model,
 
 each Brain Unit may possess:
@@ -729,6 +751,12 @@ As model capabilities increase, these responsibilities continue to accumulate.
 PDOS proposes another architectural perspective.
 
 Instead of concentrating every responsibility inside one latent model, computational responsibilities are explicitly layered.
+
+---
+
+![Fig-418-Explicit-Organization+Latent-Representation.png](./figures/Fig-418-Explicit-Organization+Latent-Representation.png)
+
+---
 
 Conceptually,
 
