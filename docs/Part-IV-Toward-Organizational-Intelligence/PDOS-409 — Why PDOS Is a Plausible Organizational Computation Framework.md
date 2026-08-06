@@ -34,6 +34,10 @@ Its objective is to explain why PDOS constitutes a plausible organizational comp
 
 ---
 
+![Fig-409-Why-PDOS-Is-a-Plausible-Organizational-Computation-Framework.png](./figures/Fig-409-Why-PDOS-Is-a-Plausible-Organizational-Computation-Framework.png)
+
+---
+
 # 1. Introduction
 
 Every new computational framework must eventually answer a fundamental question.
@@ -97,6 +101,12 @@ Behavior
         ↓
 Result
 ```
+
+---
+
+![Fig-410-Behavioral-Samples-versus-Static-Samples.png](./figures/Fig-410-Behavioral-Samples-versus-Static-Samples.png)
+
+---
 
 Examples include:
 
@@ -201,6 +211,12 @@ Organization
 ```
 
 This progression is remarkably general.
+
+---
+
+![Fig-411-Difference-as-the-Minimal-Structural-Generator.png](./figures/Fig-411-Difference-as-the-Minimal-Structural-Generator.png)
+
+---
 
 Decision trees emerge because differences partition observations.
 
@@ -335,6 +351,12 @@ Prediction
 PDOS pursues a different computational objective.
 
 Its primary target is **organizational compression**.
+
+---
+
+![Fig-412-Organizational-Compression-versus-Trajectory-Compression.png](./figures/Fig-412-Organizational-Compression-versus-Trajectory-Compression.png)
+
+---
 
 Instead of preserving only statistical continuity, PDOS attempts to preserve:
 
@@ -1081,6 +1103,10 @@ Organizational Intelligence
 ```
 
 This progression connects the theoretical foundations developed throughout Part IV into a single organizational narrative.
+
+---
+
+![Fig-413-Toward-Organizational-Intelligence.png](./figures/Fig-413-Toward-Organizational-Intelligence.png)
 
 ---
 
