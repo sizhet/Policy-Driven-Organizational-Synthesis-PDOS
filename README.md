@@ -885,6 +885,10 @@ This separation forms the engineering foundation of future PDOS runtime systems.
 
 **Figure 509. Localized Runtime Intelligence in the Structural Intelligence Landscape.**
 
+> Repository-level engineering summary
+illustrating the two complementary
+computational movements developed by PDOS.
+
 This figure summarizes the engineering interpretation of PDOS within the broader Structural Intelligence framework.
 
 Rather than relying upon one monolithic computational process, PDOS separates intelligent computation into two complementary movements.
