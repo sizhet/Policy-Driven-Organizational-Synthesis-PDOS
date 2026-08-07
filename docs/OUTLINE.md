@@ -100,15 +100,15 @@ Major topics
 
 Articles
 
-- PDOS-101 — PDOS and the Triggering Economy
-- PDOS-102 — Triggering as Organizational Value
-- PDOS-103 — Triggering Cost and Organizational Economics
-- PDOS-104 — Policies as Triggering Infrastructure
-- PDOS-105 — Triggering Agents
-- PDOS-106 — AI Services over Organizational Structures
-- PDOS-107 — Brain Units and Personal Organizational Intelligence
-- PDOS-108 — Enterprise Organizational Intelligence
-- PDOS-109 — Open Organizational Ecosystems
+- PDOS-101 — From Knowledge Organization to Triggering Economy
+- PDOS-102 — Triggering as the Currency of Intelligence
+- PDOS-103 — Triggering Cost and Computational Economics
+- PDOS-104 — Organizational Policies as Triggering Infrastructure
+- PDOS-105 — Policy-Driven Triggering Agents
+- PDOS-106 — The Triggering Economy for AI Services
+- PDOS-107 — Brain Units and Personal Triggering Economies
+- PDOS-108 — Enterprise Triggering Economies
+- PDOS-109 — Open Triggering Ecosystems
 - PDOS-110 — Summary
 
 Primary Outcome
@@ -133,11 +133,11 @@ Major topics
 
 Articles
 
-- PDOS-201 — Runtime Organizational Pipelines
-- PDOS-202 — Organizational Dispatch
-- PDOS-203 — Organizational Runtime Validation
-- PDOS-204 — Runtime Policy Evolution
-- PDOS-205 — Organizational Runtime APIs
+- PDOS-201 — Engineering the Triggering Economy
+- PDOS-202 — Organizational Runtime Pipeline
+- PDOS-203 — Policy Runtime Engine
+- PDOS-204 — Trigger Selection and Dispatch
+- PDOS-205 — Runtime Organizational Graphs
 - PDOS-206 — Organizational Feedback and Validation
 - PDOS-207 — Runtime Policy Evolution
 - PDOS-208 — Organizational Runtime APIs
@@ -167,16 +167,16 @@ Major topics
 
 Representative Articles
 
-- PDOS-401 — Why Organizational Intelligence?
-- PDOS-402 — Organizational Perspectives
-- PDOS-403 — Organizational Compression
-- PDOS-404 — Structural Coverage
-- PDOS-405 — Recursive Organizational Synthesis
-- PDOS-406 — Organizational Intelligence and AI
-- PDOS-407 — Organizational Intelligence as Infrastructure
-- PDOS-408 — Organizational Intelligence for Open-Domain AI
-- PDOS-409 — Policy-Driven Organizational Runtime Intelligence
-- PDOS-410 — Summary
+- PDOS-401 — What Is Policy-Driven Organizational Synthesis?
+- PDOS-402 — From Knowledge to Behavioral Instruments
+- PDOS-403 — Organizational Compression versus Trajectory Compression
+- PDOS-404 — Policy as Perspective
+- PDOS-405 — Structural Coverage and Perspective Validation
+- PDOS-406 — From Computational Tools to Organizational Instruments
+- PDOS-407 — Recursive Organizational Synthesis
+- PDOS-408 — Toward Organizational Intelligence
+- PDOS-409 — Why PDOS Is a Plausible Organizational Computation Framework
+- PDOS-410 — PDOS Shadow Transformer Architecture
 
 Primary Outcome
 

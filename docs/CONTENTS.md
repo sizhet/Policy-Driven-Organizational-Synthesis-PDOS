@@ -40,7 +40,7 @@ Develops the computational and economic principles of policy-driven organization
 
 | ID | Title |
 |------|-------|
-| **PDOS-101** | rom Knowledge Organization to Triggering Economy |
+| **PDOS-101** | From Knowledge Organization to Triggering Economy |
 | **PDOS-102** | Triggering as the Currency of Intelligence |
 | **PDOS-103** | Triggering Cost and Computational Economics |
 | **PDOS-104** | Organizational Policies as Triggering Infrastructure |
