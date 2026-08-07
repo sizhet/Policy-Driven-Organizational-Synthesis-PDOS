@@ -695,9 +695,7 @@ and long-term organizational evolution.
 
 ![Fig-500-Localized-Runtime-Intelligence.png](./docs/Part-V-Localized-Runtime-Intelligence/figures/Fig-500-Localized-Runtime-Intelligence.png)
 
-![Fig-509-Localized-Runtime-Intelligence-in-the-Structural-Intelligence-Landscape.png](./docs/figures/Fig-509-Localized-Runtime-Intelligence-in-the-Structural-Intelligence-Landscape.png)
-
-**Figure 500 & 509. Localized Runtime Intelligence.**
+**Figure 500. Localized Runtime Intelligence.**
 Repository overview illustrating the runtime computational architecture developed throughout Part V.
 
 ---
@@ -864,6 +862,52 @@ Potential applications include
 - and hybrid AI systems.
 
 The repository intentionally emphasizes computational principles rather than domain-specific implementations, allowing future engineering work to extend these concepts into diverse application areas.
+
+---
+
+# From Research Framework to Engineering Systems
+
+The concepts introduced throughout PDOS are intended not only as theoretical constructs but also as engineering principles.
+
+One important observation emerging from Version 1.0 is that the practical realization of PDOS naturally separates into two complementary computational stages.
+
+The first stage determines
+
+> **where computation should occur.**
+
+The second stage determines
+
+> **how localized computation should proceed.**
+
+This separation forms the engineering foundation of future PDOS runtime systems.
+
+![Fig-509-Localized-Runtime-Intelligence-in-the-Structural-Intelligence-Landscape.png](./docs/figures/Fig-509-Localized-Runtime-Intelligence-in-the-Structural-Intelligence-Landscape.png)
+
+**Figure 509. Localized Runtime Intelligence in the Structural Intelligence Landscape.**
+
+This figure summarizes the engineering interpretation of PDOS within the broader Structural Intelligence framework.
+
+Rather than relying upon one monolithic computational process, PDOS separates intelligent computation into two complementary movements.
+
+### Movement I
+
+Lossless / Low-Loss Organizational Routing
+
+Policy-driven organizations localize computational problems into the most appropriate organizational nodes while preserving as much structural information as possible.
+
+### Movement II
+
+Localized Runtime Intelligence
+
+Each localized organizational node performs runtime computation using its own runtime memory, Decision Landscape, dispatch strategies, and localized learning mechanisms.
+
+Together, these two complementary stages establish the engineering foundation for future PDOS runtime systems.
+
+---
+
+In summary,
+
+![Fig-009-Policy-Driven-Organizational-Synthesis-PDOS-Summary.png](./docs/figures/Fig-009-Policy-Driven-Organizational-Synthesis-PDOS-Summary.png)
 
 ---
 
