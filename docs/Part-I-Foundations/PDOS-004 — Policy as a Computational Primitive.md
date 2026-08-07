@@ -92,6 +92,10 @@ They do not fundamentally define computation.
 
 ---
 
+![Fig-104-Policy-as-a-Computational-Primitive.png](./figures/Fig-104-Policy-as-a-Computational-Primitive.png)
+
+---
+
 # 3. A Different Computational Chain
 
 PDOS introduces another computational perspective.

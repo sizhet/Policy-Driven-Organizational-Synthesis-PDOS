@@ -92,6 +92,10 @@ but does not itself compute.
 
 ---
 
+![Fig-103-Organization-as-Computation.png](./figures/Fig-103-Organization-as-Computation.png)
+
+---
+
 # 3. A Different Perspective
 
 PDOS proposes another model.

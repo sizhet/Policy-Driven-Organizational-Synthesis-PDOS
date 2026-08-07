@@ -74,6 +74,10 @@ This approach has produced remarkable success across many engineering discipline
 
 ---
 
+![Fig-105-Open-Domain-Organizational-Intelligence.png](./figures/Fig-105-Open-Domain-Organizational-Intelligence.png)
+
+---
+
 # 3. Gap Bridging
 
 Many intelligent systems can also improve performance by connecting previously disconnected structures.

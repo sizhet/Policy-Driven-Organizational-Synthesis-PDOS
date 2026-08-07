@@ -22,6 +22,10 @@ This paper introduces the motivation, principles, and long-term vision of PDOS.
 
 ---
 
+![Fig-101-Why-Policy-Driven-Organizational-Synthesis.png](./figures/Fig-101-Why-Policy-Driven-Organizational-Synthesis.png)
+
+---
+
 # 1. Introduction
 
 Knowledge alone does not produce intelligence.

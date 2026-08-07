@@ -76,6 +76,10 @@ The organization itself usually remains relatively stable.
 
 ---
 
+![Fig-102-From-Knowledge-Organization-to-Organizational-Intelligence.png](./figures/Fig-102-From-Knowledge-Organization-to-Organizational-Intelligence.png)
+
+---
+
 # 3. The Computational Limitation
 
 This representation-oriented perspective has an important limitation.
