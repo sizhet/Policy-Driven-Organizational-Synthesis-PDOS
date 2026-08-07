@@ -28,10 +28,12 @@ Each Part contains one overview figure followed by figures corresponding to its 
 
 | Figure | Title | Description |
 |----------|-------|-------------|
-| **Fig-000** | Policy-Driven Organizational Synthesis | Repository overview illustrating the complete computational architecture of PDOS. |
+| **Fig-000** | What Is PDOS? | Policy-Driven Organizational Synthesis | Introduces the computational architecture of PDOS. |
 | **Fig-001** | The Organizational Intelligence Landscape | Positions PDOS within the broader Structural Intelligence research framework. |
 | **Fig-002** | From Knowledge Organization to Organizational Intelligence | Illustrates the conceptual evolution from computational organization toward organizational computation. |
 | **Fig-003** | From Organizational Intelligence to Organizational Computation | Presents the complete computational pipeline developed throughout the repository. |
+| **Fig-009** | Policy-Driven Organizational Synthesis PDOS Summary | Illustrates the complete computational architecture of PDOS. 
+| **Fig-509** | Localized Runtime Intelligence in the Structural Intelligence Landscape | Illustrates the Localized runtime intelligence framework. |
 
 ---
 
