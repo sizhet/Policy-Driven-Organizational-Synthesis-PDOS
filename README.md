@@ -28,7 +28,7 @@ The repository develops a unified computational architecture connecting
 
 ---
 
-![Fig-000-Policy-Driven-Organizational-Synthesis.png](docs/figures/Fig-000-Policy-Driven-Organizational-Synthesis.png)
+![Fig-000-Policy-Driven-Organizational-Synthesis.png](docs/figures/Fig-000-What-Is-PDOS.png)
 
 **Figure 000. Policy-Driven Organizational Synthesis.**
 Repository overview illustrating the complete computational architecture developed throughout PDOS.
@@ -284,7 +284,7 @@ The overall progression is illustrated below.
 
 ---
 
-![Fig-001-From-Knowledge-to-Behavioral-Instruments.png](docs/figures/Fig-001-From-Knowledge-to-Behavioral-Instruments.png)
+![Fig-001-From-Knowledge-to-Behavioral-Instruments.png](working_notes/figures/Fig-001x-From-Knowledge-to-Behavioral-Instruments.png)
 
 **Figure 001. From Knowledge to Behavioral Instruments.**
 Positions PDOS within the broader Structural Intelligence research framework and illustrates its role in organizational computation.
@@ -473,7 +473,7 @@ Primary outcome
 
 ---
 
-![Fig-002-Organizational-Compression-versus-Gap-Bridging.png](docs/figures/Fig-002-Organizational-Compression-versus-Gap-Bridging.png)
+![Fig-002-Organizational-Compression-versus-Gap-Bridging.png](working_notes/figures/Fig-002x-Organizational-Compression-versus-Gap-Bridging.png)
 
 **Figure 002. Organizational Compression versus Gap Bridging.**
 Illustrates the conceptual evolution developed throughout the five Parts of PDOS.
@@ -600,7 +600,7 @@ integrating organizational computation into the larger Structural Intelligence a
 
 ---
 
-![Fig-003-Toward-Organizational-Intelligence.png](docs/figures/Fig-003-Toward-Organizational-Intelligence.png)
+![Fig-003-Toward-Organizational-Intelligence.png](working_notes/figures/Fig-003x-Toward-Organizational-Intelligence.png)
 
 **Figure 003. Toward Organizational Intelligence.**
 Illustrates the complete computational progression developed throughout the repository, connecting policy, organization, routing, runtime intelligence, and organizational evolution.
