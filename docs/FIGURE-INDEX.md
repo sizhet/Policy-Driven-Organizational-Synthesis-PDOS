@@ -33,7 +33,6 @@ Each Part contains one overview figure followed by figures corresponding to its 
 | **Fig-002** | From Knowledge Organization to Organizational Intelligence | Illustrates the conceptual evolution from computational organization toward organizational computation. |
 | **Fig-003** | From Organizational Intelligence to Organizational Computation | Presents the complete computational pipeline developed throughout the repository. |
 | **Fig-009** | Policy-Driven Organizational Synthesis PDOS Summary | Illustrates the complete computational architecture of PDOS. 
-| **Fig-509** | Localized Runtime Intelligence in the Structural Intelligence Landscape | A Cross-Part Engineering Bridge Figure From Part V. |
 
 ---
 
@@ -132,6 +131,7 @@ Each Part contains one overview figure followed by figures corresponding to its 
 | **Fig-507** | Multi-Policy Runtime Forest | Multiple policy perspectives cooperating through Policy Forests and Organizational Fusion. |
 | **Fig-508** | Closed-Loop Runtime Organization | Continuous organizational evolution integrating decision, learning, policy refinement, and organizational improvement. |
 | **Fig-509** | Localized Runtime Intelligence in the Structural Intelligence Landscape | Positions Part V within the complete Structural Intelligence framework. |
+| **Fig-509b** | Localized Runtime Intelligence in the Structural Intelligence Landscape | A Cross-Part Engineering Bridge Figure From Part V. |
 
 ---
 
