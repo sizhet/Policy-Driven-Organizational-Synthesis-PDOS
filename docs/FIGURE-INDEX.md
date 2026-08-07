@@ -57,14 +57,14 @@ Each Part contains one overview figure followed by figures corresponding to its 
 
 | Figure | Title | Description |
 |----------|-------|-------------|
-| **Fig-200** | Part II — Triggering Economy | Repository overview of organizational triggering and computational value. |
-| **Fig-201** | Triggering as Organizational Currency | Explains triggering as the fundamental computational currency of organizational intelligence. |
-| **Fig-202** | Organizational Triggering Economics | Illustrates organizational cost, benefit, and triggering efficiency. |
-| **Fig-203** | Policy-Driven Triggering Infrastructure | Shows policies coordinating organizational triggering. |
-| **Fig-204** | Triggering Agents | Introduces organizational triggering agents operating over policy-driven structures. |
-| **Fig-205** | Organizational AI Services | Illustrates AI services built upon organizational triggering. |
-| **Fig-206** | Organizational Runtime Feedback | Demonstrates organizational validation through runtime feedback. |
-| **Fig-207** | Runtime Policy Evolution | Illustrates continuous refinement of policies through organizational experience. |
+| **Fig-200** | From Knowledge Organization to Triggering Economy | Repository overview of organizational triggering and computational value. |
+| **Fig-201** | Triggering as the Currency of Intelligence | Explains triggering as the fundamental computational currency of organizational intelligence. |
+| **Fig-202** | Triggering Cost and Runtime Economics | Illustrates organizational cost, benefit, and triggering efficiency. |
+| **Fig-203** | Organizational Policies as Runtime Infrastructure | Shows policies coordinating organizational triggering. |
+| **Fig-204** | Policy Driven Triggering Agents | Introduces organizational triggering agents operating over policy-driven structures. |
+| **Fig-205** | AI Triggering Economy Ecosystem | Illustrates AI services built upon organizational triggering. |
+| **Fig-206** | Personal and Enterprise Triggering Economies | Demonstrates organizational validation through runtime feedback. |
+| **Fig-207** | Triggering Economy Landscape | Illustrates continuous refinement of policies through organizational experience. |
 
 ---
 
