@@ -264,7 +264,11 @@ and computational evolution become increasingly unified.
 
 ---
 
-![Fig-509-Localized-Runtime-Intelligence-in-the-Structural-Intelligence-Landscape.png](./figures/Fig-509-Localized-Runtime-Intelligence-in-the-Structural-Intelligence-Landscape.png)
+![Fig-509-Localized-Runtime-Intelligence-in-the-Structural-Intelligence-Landscape.png](figures/Fig-509-Localized-Runtime-Intelligence-in-the-Structural-Intelligence-Landscape.png)
+
+---
+
+![Fig-509b-Localized-Runtime-Intelligence-in-the-Structural-Intelligence-Landscape.png](figures/Fig-509b-Localized-Runtime-Intelligence-in-the-Structural-Intelligence-Landscape.png)
 
 ---
 
@@ -335,6 +339,9 @@ Rather than viewing intelligence as a single global computational process, PDOS 
 
 Localized Runtime Intelligence therefore completes the first-generation computational foundation of Policy-Driven Organizational Synthesis and provides a new architectural perspective for future AI systems centered on organization, runtime computation, and continuous organizational evolution.
 
+> **Routing determines WHERE.**
+> **Local Runtime Intelligence determines HOW.**
+>
 ---
 
 **End of Part V**

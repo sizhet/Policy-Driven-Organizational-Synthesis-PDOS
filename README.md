@@ -881,7 +881,7 @@ The second stage determines
 
 This separation forms the engineering foundation of future PDOS runtime systems.
 
-![Fig-509-Localized-Runtime-Intelligence-in-the-Structural-Intelligence-Landscape.png](./docs/figures/Fig-509-Localized-Runtime-Intelligence-in-the-Structural-Intelligence-Landscape.png)
+![Fig-509-Localized-Runtime-Intelligence-in-the-Structural-Intelligence-Landscape.png](docs/Part-V-Localized-Runtime-Intelligence/figures/Fig-509b-Localized-Runtime-Intelligence-in-the-Structural-Intelligence-Landscape.png)
 
 **Figure 509. Localized Runtime Intelligence in the Structural Intelligence Landscape.**
 

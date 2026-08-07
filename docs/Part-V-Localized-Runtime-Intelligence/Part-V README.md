@@ -336,6 +336,14 @@ Localized Runtime Intelligence provides an organizational runtime architecture c
 
 # Summary
 
+---
+
+**Figure 009. Policy-Driven Organizational Synthesis PDOS Summary.**
+
+![Fig-009-Policy-Driven-Organizational-Synthesis-PDOS-Summary.png](../../docs/figures/Fig-009-Policy-Driven-Organizational-Synthesis-PDOS-Summary.png)
+
+---
+
 Part V establishes the computational foundation of **Localized Runtime Intelligence**.
 
 Through Per-Node Runtime Memory,
@@ -357,3 +365,6 @@ PDOS demonstrates how organization, computation, learning, and continuous evolut
 This part completes the first-generation theoretical foundation of **Policy-Driven Organizational Synthesis**, establishing organization not merely as a method for structuring information, but as a computational primitive that determines where, how, and why runtime intelligence should operate.
 
 Ultimately, Part V positions **Localized Runtime Intelligence** as the natural computational realization of **Policy-Driven Organizational Synthesis**, providing a scalable architectural foundation for future organizational AI systems.
+
+> **Routing determines WHERE.**
+> **Local Runtime Intelligence determines HOW.**
