@@ -33,7 +33,7 @@ Each Part contains one overview figure followed by figures corresponding to its 
 | **Fig-002** | From Knowledge Organization to Organizational Intelligence | Illustrates the conceptual evolution from computational organization toward organizational computation. |
 | **Fig-003** | From Organizational Intelligence to Organizational Computation | Presents the complete computational pipeline developed throughout the repository. |
 | **Fig-009** | Policy-Driven Organizational Synthesis PDOS Summary | Illustrates the complete computational architecture of PDOS. 
-| **Fig-509** | Localized Runtime Intelligence in the Structural Intelligence Landscape | Illustrates the Localized runtime intelligence framework. |
+| **Fig-509** | Localized Runtime Intelligence in the Structural Intelligence Landscape | A Cross-Part Engineering Bridge Figure From Part V. |
 
 ---
 

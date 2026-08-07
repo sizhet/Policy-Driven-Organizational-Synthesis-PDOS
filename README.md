@@ -1089,38 +1089,27 @@ The repository follows a consistent engineering organization.
 
 ```text
 Policy-Driven-Organizational-Synthesis-PDOS/
-
 │
-
 ├── README.md
-
-├── START-HERE.md
-
-├── CONSTITUTION.md
-
-├── OUTLINE.md
-
-├── CONTENTS.md
-
-├── ROADMAP.md
-
-├── FIGURE-INDEX.md
-
+├── CHANGELOG.md
+├── CITATION.cff
+├── .zenodo.json
+├── Apache-2.0 LICENSE.txt
 │
+└── docs/
+       ├── START-HERE.md
+       ├── CONSTITUTION.md
+       ├── OUTLINE.md
+       ├── CONTENTS.md
+       ├── ROADMAP.md
+       ├── FIGURE-INDEX.md
+       ├── figures/
+       ├── Part-I-Foundations/
+       ├── Part-II-From-Knowledge-Organization-to-Triggering-Economy/
+       ├── Part-III-Policy-Driven-Runtime-Architecture/
+       ├── Part-IV-Toward-Organizational-Intelligence/
+       └── Part-V-Localized-Runtime-Intelligence/
 
-├── docs/
-
-│      ├── Part-I-Foundations/
-
-│      ├── Part-II-From-Knowledge-Organization-to-Triggering-Economy/
-
-│      ├── Part-III-Policy-Driven-Runtime-Architecture/
-
-│      ├── Part-IV-Toward-Organizational-Intelligence/
-
-│      ├── Part-V-Localized-Runtime-Intelligence/
-
-│      └── figures/
 ```
 
 Each Part contains
@@ -1365,7 +1354,6 @@ If you find this repository useful in your research, software, or engineering pr
   author = {Sizhe Tan},
   year   = {2026},
   version = {1.0.0},
-  doi    = {DOI TO BE INSERTED},
   url    = {https://github.com/sizhet/Policy-Driven-Organizational-Synthesis-PDOS}
 }
 ```

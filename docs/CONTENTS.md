@@ -130,38 +130,27 @@ The repository also contains the following guiding documents.
 
 ```
 Policy-Driven-Organizational-Synthesis-PDOS/
-
 │
-
 ├── README.md
-
-├── START-HERE.md
-
-├── CONSTITUTION.md
-
-├── OUTLINE.md
-
-├── ROADMAP.md
-
-├── CONTENTS.md
-
-├── FIGURE-INDEX.md
-
+├── CHANGELOG.md
+├── CITATION.cff
+├── .zenodo.json
+├── Apache-2.0 LICENSE.txt
 │
+└── docs/
+       ├── START-HERE.md
+       ├── CONSTITUTION.md
+       ├── OUTLINE.md
+       ├── CONTENTS.md
+       ├── ROADMAP.md
+       ├── FIGURE-INDEX.md
+       ├── figures/
+       ├── Part-I-Foundations/
+       ├── Part-II-From-Knowledge-Organization-to-Triggering-Economy/
+       ├── Part-III-Policy-Driven-Runtime-Architecture/
+       ├── Part-IV-Toward-Organizational-Intelligence/
+       └── Part-V-Localized-Runtime-Intelligence/
 
-├── docs/
-
-│      ├── Part-I-Foundations/
-
-│      ├── Part-II-From-Knowledge-Organization-to-Triggering-Economy/
-
-│      ├── Part-III-Policy-Driven-Runtime-Architecture/
-
-│      ├── Part-IV-Toward-Organizational-Intelligence/
-
-│      ├── Part-V-Localized-Runtime-Intelligence/
-
-│      └── figures/
 ```
 
 ---
