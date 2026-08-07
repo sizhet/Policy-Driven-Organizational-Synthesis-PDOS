@@ -1358,6 +1358,7 @@ If you find this repository useful in your research, software, or engineering pr
   author = {Sizhe Tan},
   year   = {2026},
   version = {1.0.0},
+  doi = {10.5281/zenodo.21844616},
   url    = {https://github.com/sizhet/Policy-Driven-Organizational-Synthesis-PDOS}
 }
 ```
