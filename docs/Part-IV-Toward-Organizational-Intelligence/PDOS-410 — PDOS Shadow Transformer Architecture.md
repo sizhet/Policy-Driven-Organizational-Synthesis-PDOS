@@ -642,7 +642,7 @@ Brain Unit AI.
 
 ---
 
-![Fig-417- Brain-Unit-AI-in-PDOS-Ecosystem.png](./figures/Fig-417- Brain-Unit-AI-in-PDOS-Ecosystem.png)
+![Fig-417-Brain-Unit-AI-in-PDOS-Ecosystem.png](./figures/Fig-417-Brain-Unit-AI-in-PDOS-Ecosystem.png)
 
 ---
 

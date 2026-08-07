@@ -94,14 +94,25 @@ Each Part contains one overview figure followed by figures corresponding to its 
 
 | Figure | Title | Description |
 |----------|-------|-------------|
-| **Fig-400** | Part IV — Organizational Intelligence | Repository overview of Organizational Intelligence. |
-| **Fig-401** | From Knowledge to Behavioral Instruments | Knowledge transformed into executable organizational instruments. |
-| **Fig-402** | Organizational Compression | Organizational abstraction versus trajectory-based computation. |
-| **Fig-403** | Policy as Perspective | Different policy perspectives producing different organizational structures. |
-| **Fig-404** | Structural Coverage | Evaluating organizational coverage under alternative policy perspectives. |
-| **Fig-405** | Organizational Synthesis Loop | Recursive synthesis and organizational refinement. |
-| **Fig-406** | Toward Organizational Intelligence | Evolution from organizational synthesis toward organizational intelligence. |
-| **Fig-407** | PDOS Shadow Transformer Architecture | Organizational interpretation of transformer-style runtime computation. |
+| **Fig-400** | Part-IV-Overview—Toward-Organizational-Intelligence | Repository overview of Organizational Intelligence. |
+| **Fig-401** | What-Is-Policy-Driven-Organizational-Synthesis | Knowledge transformed into executable organizational instruments. |
+| **Fig-402** | From-Knowledge-to-Behavioral-Instruments | Organizational abstraction versus trajectory-based computation. |
+| **Fig-403** | Organizational-Compression-versus-Gap-Bridging | Different policy perspectives producing different organizational structures. |
+| **Fig-404** | Policy-as-Perspective—One-Dataset-Multiple-Tool-Trees | Evaluating organizational coverage under alternative policy perspectives. |
+| **Fig-405** | Perspective-Validation-and-Structural-Coverage | Recursive synthesis and organizational refinement. |
+| **Fig-406** | From-Computational-Infrastructure-to-Organizational-Infrastructure | Evolution from organizational synthesis toward organizational intelligence. |
+| **Fig-407** | Recursive-Organizational-Synthesis | Organizational interpretation of transformer-style runtime computation. |
+| **Fig-408** | Automation-Extension-and-Scale—Toward-Organizational-Intelligence |   |
+| **Fig-409** | Why-PDOS-Is-a-Plausible-Organizational-Computation-Framework |   |
+| **Fig-410** | Behavioral-Samples-versus-Static-Samples |   |
+| **Fig-411** | Difference-as-the-Minimal-Structural-Generator |   |
+| **Fig-412** | Organizational-Compression-versus-Trajectory-Compression |   |
+| **Fig-413** | Toward-Organizational-Intelligence |   |
+| **Fig-414** | PDOS-Shadow-Transformer-Architecture |   |
+| **Fig-415** | Transformer-and-Organizational-Trees |   |
+| **Fig-416** | Shadow-Transformer-Runtime-Dispatch |   |
+| **Fig-417** | Brain-Unit-AI-in-PDOS-Ecosystem |   |
+| **Fig-418** | Explicit-Organization+Latent-Representation |   |
 
 ---
 
