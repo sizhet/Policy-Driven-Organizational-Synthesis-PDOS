@@ -28,7 +28,7 @@ The repository develops a unified computational architecture connecting
 
 ---
 
-![Fig-000-Policy-Driven-Organizational-Synthesis.png](docs/figures/Fig-000-What-Is-PDOS.png)
+![Fig-000-What-Is-PDOS.png](./docs/figures/Fig-000-What-Is-PDOS.png)
 
 **Figure 000. Policy-Driven Organizational Synthesis.**
 Repository overview illustrating the complete computational architecture developed throughout PDOS.
@@ -284,9 +284,9 @@ The overall progression is illustrated below.
 
 ---
 
-![Fig-001-From-Knowledge-to-Behavioral-Instruments.png](working_notes/figures/Fig-001x-From-Knowledge-to-Behavioral-Instruments.png)
+![Fig-001-The-Organizational-Intelligence-Landscape.png](./docs/figures/Fig-001-The-Organizational-Intelligence-Landscape.png)
 
-**Figure 001. From Knowledge to Behavioral Instruments.**
+**Figure 001. The Organizational Intelligence Landscape.**
 Positions PDOS within the broader Structural Intelligence research framework and illustrates its role in organizational computation.
 
 ---
@@ -473,9 +473,9 @@ Primary outcome
 
 ---
 
-![Fig-002-Organizational-Compression-versus-Gap-Bridging.png](working_notes/figures/Fig-002x-Organizational-Compression-versus-Gap-Bridging.png)
+![Fig-002-From-Knowledge-Organization-to-Organizational-Intelligence.png](./docs/figures/Fig-002-From-Knowledge-Organization-to-Organizational-Intelligence.png)
 
-**Figure 002. Organizational Compression versus Gap Bridging.**
+**Figure 002. From Knowledge Organization to Organizational Intelligence.**
 Illustrates the conceptual evolution developed throughout the five Parts of PDOS.
 
 ---
@@ -600,9 +600,9 @@ integrating organizational computation into the larger Structural Intelligence a
 
 ---
 
-![Fig-003-Toward-Organizational-Intelligence.png](working_notes/figures/Fig-003x-Toward-Organizational-Intelligence.png)
+![Fig-003-From-Organizational-Intelligence-to-Organizational-Computation.png](./docs/figures/Fig-003-From-Organizational-Intelligence-to-Organizational-Computation.png)
 
-**Figure 003. Toward Organizational Intelligence.**
+**Figure 003. From Organizational Intelligence to Organizational Computation.**
 Illustrates the complete computational progression developed throughout the repository, connecting policy, organization, routing, runtime intelligence, and organizational evolution.
 
 ---
@@ -695,7 +695,9 @@ and long-term organizational evolution.
 
 ![Fig-500-Localized-Runtime-Intelligence.png](./docs/Part-V-Localized-Runtime-Intelligence/figures/Fig-500-Localized-Runtime-Intelligence.png)
 
-**Figure 500. Localized Runtime Intelligence.**
+![Fig-509-Localized-Runtime-Intelligence-in-the-Structural-Intelligence-Landscape.png](./docs/figures/Fig-509-Localized-Runtime-Intelligence-in-the-Structural-Intelligence-Landscape.png)
+
+**Figure 500 & 509. Localized Runtime Intelligence.**
 Repository overview illustrating the runtime computational architecture developed throughout Part V.
 
 ---
