@@ -905,7 +905,7 @@ Together, these two complementary stages establish the engineering foundation fo
 
 ---
 
-In summary,
+**Figure 009. Policy-Driven Organizational Synthesis PDOS Summary.**
 
 ![Fig-009-Policy-Driven-Organizational-Synthesis-PDOS-Summary.png](./docs/figures/Fig-009-Policy-Driven-Organizational-Synthesis-PDOS-Summary.png)
 
