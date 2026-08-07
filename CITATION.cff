@@ -1,4 +1,63 @@
-TBD
+cff-version: 1.2.0
+
+title: "Policy-Driven Organizational Synthesis (PDOS)"
+
+message: >
+  If you use this repository in your research, software,
+  or engineering projects, please cite it using the
+  metadata below.
+
+type: software
+
+authors:
+  - family-names: Tan
+    given-names: Sizhe
+
+version: "1.0.0"
+
+date-released: 2026-08-06
+
+repository-code: "https://github.com/sizhet/Policy-Driven-Organizational-Synthesis-PDOS"
+
+url: "https://github.com/sizhet/Policy-Driven-Organizational-Synthesis-PDOS"
+
+abstract: >
+  Policy-Driven Organizational Synthesis (PDOS) is a computational
+  framework for synthesizing, exploiting, and continuously evolving
+  organizational structures under explicit policies.
+  The repository establishes a unified computational architecture
+  connecting Organizational Intelligence, Organizational Routing,
+  Localized Runtime Intelligence, Runtime Learning,
+  Brain Units, Multi-Policy Runtime Intelligence,
+  and Closed-Loop Runtime Organizations.
+  Version 1.0 develops the first complete theoretical foundation
+  of Policy-Driven Organizational Synthesis across five
+  progressively connected parts.
+
+keywords:
+  - Policy-Driven Organizational Synthesis
+  - PDOS
+  - Organizational Intelligence
+  - Organizational Computation
+  - Organization as Computation
+  - Policy as a Computational Primitive
+  - Organizational Routing
+  - Localized Runtime Intelligence
+  - Decision Landscapes
+  - Runtime Memory
+  - Runtime Learning
+  - Brain Units
+  - Multi-Policy Runtime Intelligence
+  - Closed-Loop Runtime Organizations
+  - Triggering Economy
+  - Structural Intelligence
+  - Hybrid AI
+  - Open-Domain Intelligence
 
 license: Apache-2.0
+
+doi: "TO BE INSERTED AFTER ZENODO DOI MINTING"
+
+
+
 

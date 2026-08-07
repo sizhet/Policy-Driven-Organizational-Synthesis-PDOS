@@ -1,7 +1,48 @@
-TBD
-
-  "license": "Apache-2.0",
-  "language": "eng"
+{
+"title": "Policy-Driven Organizational Synthesis (PDOS)",
+"description": "Policy-Driven Organizational Synthesis (PDOS) is a computational framework for synthesizing, exploiting, and continuously evolving organizational structures under explicit policies. The repository develops a unified architecture connecting organizational intelligence, organizational routing, runtime computation, localized runtime intelligence, continuous learning, Brain Units, multi-policy runtime intelligence, and closed-loop organizational evolution. Version 1.0 establishes the first complete theoretical foundation of PDOS across five progressively connected parts: Foundations; From Knowledge Organization to Triggering Economy; Policy-Driven Runtime Architecture; Toward Organizational Intelligence; and Localized Runtime Intelligence.",
+"creators": [
+{
+"name": "Tan, Sizhe"
+}
+],
+"version": "1.0.0",
+"publication_date": "2026-08-06",
+"upload_type": "software",
+"license": "Apache-2.0",
+"access_right": "open",
+"keywords": [
+"Policy-Driven Organizational Synthesis",
+"PDOS",
+"Organizational Intelligence",
+"Organizational Computation",
+"Organization as Computation",
+"Policy as a Computational Primitive",
+"Policy-Driven Organization",
+"Organizational Routing",
+"Localized Runtime Intelligence",
+"Decision Landscapes",
+"Runtime Memory",
+"Unified Dispatch",
+"Localized Runtime Learning",
+"Brain Units",
+"Multi-Policy Runtime Intelligence",
+"Closed-Loop Runtime Organizations",
+"Triggering Economy",
+"Difference Trees",
+"Structural Intelligence",
+"Hybrid AI",
+"Open-Domain Intelligence"
+],
+"related_identifiers": [
+{
+"identifier": "https://github.com/sizhet/Policy-Driven-Organizational-Synthesis-PDOS",
+"relation": "isSupplementTo",
+"scheme": "url"
+}
+],
+"communities": [],
+"notes": "Version 1.0 establishes the first complete theoretical and engineering foundation of Policy-Driven Organizational Synthesis (PDOS). The release integrates five progressively connected parts covering foundational organizational principles, the Triggering Economy, policy-driven runtime architecture, Organizational Intelligence, and Localized Runtime Intelligence. DOI: TO BE INSERTED AFTER ZENODO MINTING."
 }
 
 
