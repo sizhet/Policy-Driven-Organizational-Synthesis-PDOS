@@ -169,3 +169,7 @@
 51. Structure and Dynamics of FTRI Switching \
     Actor-Centered Event and Trigger Structures for Language Switching, Robot Actions, Strategic Games, Market Regimes, and AI Runtime Control \
     Repository: https://github.com/sizhet/Structure-and-Dynamics-of-FTRI-Switching
+    
+52. Policy-Driven Organizational Synthesis (PDOS) \
+    Engineering Organizational Intelligence through Policy, Organization, and Localized Runtime Intelligence \
+    Repository: https://github.com/sizhet/Policy-Driven-Organizational-Synthesis-PDOS
