@@ -43,6 +43,12 @@ These figures introduce the overall concepts of the repository.
 
 | Figure      | Title  |
 |---|---|
+| **Fig-100** | Part I—Foundations |
+| **Fig-101** | Why Policy-Driven Organizational Synthesis |
+| **Fig-102** | From Knowledge Organization to Organizational Intelligence |
+| **Fig-103** | Organization as Computation |
+| **Fig-104** | Policy as a Computational Primitive |
+| **Fig-105** | Open Domain Organizational Intelligence |
 
 ---
 
