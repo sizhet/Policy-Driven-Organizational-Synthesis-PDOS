@@ -74,18 +74,18 @@ Each Part contains one overview figure followed by figures corresponding to its 
 
 | Figure | Title | Description |
 |----------|-------|-------------|
-| **Fig-300** | Part III — Runtime Architecture | Repository overview of runtime organizational engineering. |
+| **Fig-300** | Engineering the Triggering Economy | Repository overview of runtime organizational engineering. |
 | **Fig-301** | Organizational Runtime Pipeline | Runtime execution pipeline for policy-driven organizations. |
 | **Fig-302** | Policy Runtime Engine | Execution engine supporting organizational computation. |
-| **Fig-303** | Organizational Dispatch | Dispatch mechanisms operating over organizational structures. |
-| **Fig-304** | Organizational Runtime Graphs | Runtime interaction graph among organizational components. |
-| **Fig-305** | Organizational Validation Loop | Runtime validation and feedback architecture. |
+| **Fig-303** | Trigger Selection and Dispatch | Dispatch mechanisms operating over organizational structures. |
+| **Fig-304** | Runtime Organizational Graphs | Runtime interaction graph among organizational components. |
+| **Fig-305** | Organizational Feedback and Validation | Runtime validation and feedback architecture. |
 | **Fig-306** | Runtime Policy Evolution | Continuous refinement of runtime organizational policies. |
 | **Fig-307** | Organizational Runtime APIs | Engineering interfaces supporting organizational computation. |
 | **Fig-308** | Reference Runtime Architecture | Complete engineering blueprint of the PDOS runtime system. |
-| **Fig-309** | Part III Summary | Integrated runtime organizational architecture. |
+| **Fig-309** | Part-III Summary — Policy-Driven Runtime Architecture | Integrated runtime organizational architecture. |
 
----
+ ---
 
 # Part IV — Toward Organizational Intelligence
 
