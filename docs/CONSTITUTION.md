@@ -4,21 +4,21 @@
 
 ## Constitutional Principles
 
-Version 1.0
+**Version 1.0**
 
 ---
 
 # Purpose
 
-This repository establishes the constitutional principles of **Policy-Driven Organizational Synthesis (PDOS)**.
+This constitution establishes the long-term principles of **Policy-Driven Organizational Synthesis (PDOS)**.
 
-PDOS studies how organizational structures can be explicitly synthesized, continuously evolved, and computationally exploited under policies.
+PDOS investigates how organizational structures can be **explicitly synthesized, computationally exploited, continuously improved, and progressively evolved** under explicit policies.
 
-The objective is **not** merely to organize knowledge.
+The objective is **not** merely to organize information.
 
-The objective is to establish **organizational intelligence** as a fundamental computational discipline.
+The objective is to establish **Organizational Intelligence** as a new computational discipline.
 
-This constitution defines the long-term research philosophy, design principles, engineering direction, and repository scope.
+This document defines the stable constitutional principles that guide the long-term evolution of the repository. While future theories, engineering methods, and applications may expand, the constitutional direction presented here is intended to remain stable.
 
 ---
 
@@ -26,222 +26,304 @@ This constitution defines the long-term research philosophy, design principles, 
 
 PDOS is built upon one central observation:
 
-> **Organization is computation.**
+> **Organization is Computation.**
 
 Knowledge does not become intelligent simply because it exists.
 
-Intelligence emerges from how knowledge is organized, synthesized, adapted, and exploited during computation.
+Intelligence emerges from how knowledge is organized, localized, coordinated, and exploited during runtime computation.
 
-PDOS therefore investigates organization itself as an explicit computational object.
+PDOS therefore studies **organization itself as a computational object**, capable of guiding intelligent computation before computation begins.
 
 ---
 
 # Mission
 
-The mission of PDOS is to develop a unified computational framework for
+The mission of PDOS is to establish a unified computational framework for
 
-* policy-driven organizational synthesis
-* organizational evolution
-* runtime organizational intelligence
-* explainable organizational computation
-* open-domain organizational growth
+- policy-driven organizational synthesis,
+- organizational intelligence,
+- organizational computation,
+- runtime organizational intelligence,
+- explainable organizational systems,
+- organizational evolution,
+- and open-domain intelligent organizations.
 
-across artificial intelligence, software systems, scientific discovery, strategic planning, and biological inspiration.
+The framework is intended to support future research across
+
+- Artificial Intelligence,
+- Software Engineering,
+- Scientific Discovery,
+- Enterprise Systems,
+- Strategic Planning,
+- Autonomous Agents,
+- and Biological Intelligence.
 
 ---
 
-# Fundamental Principles
+# Fundamental Constitutional Principles
 
 ## Principle 1
 
-Organization is a computational object.
+### Organization is a Computational Object
 
-Organizations are not passive descriptions.
+Organizations are not passive descriptions of information.
 
-Organizations participate directly in computation.
+Organizations actively participate in computation by
+
+- localizing computation,
+- organizing runtime behavior,
+- coordinating decisions,
+- guiding resource allocation,
+- and supporting continuous evolution.
+
+Organization therefore becomes part of computation itself.
 
 ---
 
 ## Principle 2
 
-Policies actively shape organizations.
+### Policy Drives Organization
 
-Policies are not configuration parameters.
+Policies are not merely configuration parameters.
 
-Policies determine how organizational structures are synthesized, evaluated, refined, and evolved.
+Policies determine
+
+- organizational objectives,
+- organizational perspectives,
+- structural priorities,
+- routing strategies,
+- optimization goals,
+- and organizational evolution.
+
+Policy therefore becomes a fundamental computational primitive.
 
 ---
 
 ## Principle 3
 
-Organization precedes efficient computation.
+### Organization Precedes Efficient Computation
 
-Better organization enables better computation.
+Before efficient computation can occur,
 
-Many computational improvements originate from improved organizational structures rather than more complex algorithms.
+the problem should first be organized.
+
+Better organizational structures naturally reduce computational complexity,
+
+improve explainability,
+
+increase reuse,
+
+and enable specialization.
+
+PDOS therefore emphasizes
+
+> **Organization Before Computation.**
 
 ---
 
 ## Principle 4
 
-Organizational structures should remain explainable.
+### Organizational Routing Enables Localized Computation
 
-PDOS favors explicit, interpretable organizational structures over opaque organizational behavior whenever practical.
+Policy-Driven Organizational Routing determines
 
-Difference Trees, organizational hierarchies, and structural representations should remain understandable and reusable.
+> **where computation should occur.**
+
+After successful localization,
+
+runtime intelligence determines
+
+> **how computation should occur.**
+
+The separation between organizational routing and localized runtime computation constitutes one of the central architectural principles of PDOS.
 
 ---
 
 ## Principle 5
 
-Organization continuously evolves.
+### Localized Runtime Intelligence
 
-Organizational synthesis is not a one-time process.
+Once computation has been localized,
 
-Organizations continuously adapt according to
+individual organizational nodes become independent computational environments.
 
-* policies
-* observations
-* goals
-* runtime feedback
-* environmental changes
+Each localized runtime node may maintain
+
+- runtime memory,
+- Decision Landscapes,
+- dispatch strategies,
+- localized learning,
+- and specialized computational knowledge.
+
+Localized Runtime Intelligence therefore emerges naturally from organizational localization rather than global computation alone.
 
 ---
 
 ## Principle 6
 
-Open-domain growth complements closed-domain optimization.
+### Organizations Continuously Evolve
 
-Closed-domain systems primarily optimize existing organizational structures.
+Organizations are never finished.
 
-PDOS additionally studies how entirely new organizational structures can emerge through policy-driven synthesis.
+Every runtime execution provides new operational evidence.
+
+Policies,
+
+runtime observations,
+
+measured utility,
+
+and localized learning continuously improve organizational structures.
+
+Organizational evolution is therefore an intrinsic computational process rather than an external maintenance activity.
 
 ---
 
 ## Principle 7
 
-Scale independence.
+### Open-Domain Organizational Intelligence
 
-The same organizational principles should apply to
+Closed-domain systems primarily optimize existing organizational structures.
 
-* concept learning
-* local reasoning
-* software modules
-* enterprise systems
-* scientific research
-* autonomous agents
-* biological intelligence
+PDOS additionally investigates how entirely new organizations can be synthesized,
 
-PDOS seeks computational principles that remain valid across scales.
+expanded,
+
+merged,
+
+refined,
+
+or replaced within continuously evolving open-domain environments.
+
+Open-domain organizational growth is therefore a primary research objective.
 
 ---
 
 ## Principle 8
 
-Organization is reusable computational infrastructure.
+### Organizational Structures Are Reusable Computational Assets
 
-Well-designed organizational structures become reusable computational assets.
+Well-designed organizational structures become reusable computational infrastructure.
 
-Organizational knowledge should be composable, transferable, extensible, and maintainable.
+Organizations should remain
+
+- composable,
+- transferable,
+- maintainable,
+- explainable,
+- extensible,
+- and reusable.
+
+Organizational knowledge therefore becomes engineering infrastructure rather than transient implementation.
 
 ---
 
 ## Principle 9
 
-Difference Trees are computational assets.
+### Difference Trees Are Organizational Infrastructure
 
 Difference Trees are not merely visualization tools.
 
-They represent explicit organizational structures supporting reasoning, explanation, runtime organization, and organizational evolution.
+They represent explicit computational organizations supporting
+
+- localization,
+- organizational routing,
+- explainability,
+- structural comparison,
+- organizational evolution,
+- and runtime computation.
+
+Difference Trees therefore constitute reusable organizational infrastructure.
 
 ---
 
 ## Principle 10
 
-Organizational intelligence extends computational intelligence.
+### Organizational Intelligence Extends Computational Intelligence
 
-Computation alone does not explain intelligent behavior.
+Traditional computation primarily studies algorithms.
 
-Organizational intelligence provides an additional layer through which computational systems may continuously improve their runtime effectiveness.
+PDOS studies the organizations within which algorithms operate.
 
----
+Organizational Intelligence therefore complements rather than replaces computational intelligence.
 
-## Localized Runtime Intelligence
+Together,
 
-Policy-Driven Organizational Routing determines where runtime computation should occur.
+organization,
 
-Localized Runtime Intelligence determines how computation should occur after organizational localization.
+computation,
 
-The separation between organizational routing and localized runtime computation constitutes one of the fundamental architectural principles of Policy-Driven Organizational Synthesis.
+runtime learning,
+
+and organizational evolution form one unified computational architecture.
 
 ---
 
 # Scope
 
-PDOS studies topics including
+PDOS investigates topics including
 
-* organizational synthesis
-* policy engineering
-* Difference Trees
-* organizational evolution
-* runtime organization
-* organizational optimization
-* organizational simulation
-* organizational comparison
-* organizational explainability
-* open-domain organizational intelligence
+- Policy-Driven Organizational Synthesis
+- Organizational Intelligence
+- Organizational Computation
+- Organizational Evolution
+- Difference Trees
+- Policy Engineering
+- Organizational Routing
+- Runtime Organization
+- Localized Runtime Intelligence
+- Brain Units
+- Multi-Policy Runtime Intelligence
+- Closed-Loop Runtime Organizations
+- Open-Domain Organizational Intelligence
 
-The repository intentionally spans both theoretical and engineering perspectives.
+The repository intentionally integrates theoretical foundations with engineering methodologies.
 
 ---
 
 # Relationship with Companion Repositories
 
-PDOS complements several repositories within the Structural Intelligence series.
+PDOS occupies the organizational computation layer within the broader **Structural Intelligence** framework.
 
-Simplified relationships include
+```
+Universal Typing and Naming (UTN)
 
-```text
-UTN
-        ↓
-CKOI
-        ↓
-PDOS
-        ↓
-GTDO
-        ↓
-FTRI
-        ↓
-RCP
+                ↓
+
+Computational Knowledge Organization and Infrastructure (CKOI)
+
+                ↓
+
+Policy-Driven Organizational Synthesis (PDOS)
+
+                ↓
+
+Goal-Oriented Training Data Organization (GTDO)
+
+                ↓
+
+Structure and Dynamics of FTRI Switching (FTRIS)
+
+                ↓
+
+Runtime Computational Primitives (RCP)
 ```
 
-Their primary responsibilities differ.
+Each repository investigates a distinct computational layer while remaining compatible with the others.
 
-**UTN**
+Together they progressively establish
 
-Unified structural representation.
+representation,
 
-**CKOI**
+organization,
 
-Computational organizational infrastructure.
+runtime computation,
 
-**PDOS**
+runtime switching,
 
-Policy-driven organizational synthesis.
+and computational primitives
 
-**GTDO**
-
-Goal-oriented computational organization and dispatch.
-
-**FTRI**
-
-Runtime organizational switching.
-
-**RCP**
-
-Reusable runtime computational primitives.
-
-Together these repositories describe different layers of structural computation.
+within one coherent Structural Intelligence framework.
 
 ---
 
@@ -249,17 +331,27 @@ Together these repositories describe different layers of structural computation.
 
 PDOS follows several long-term research philosophies.
 
-## Explicit Structures
+## Explicit Organization
 
-Whenever possible, organizational structures should remain visible and explainable.
+Whenever practical,
+
+organizational structures should remain visible,
+
+interpretable,
+
+and explainable.
 
 ---
 
 ## Engineering First
 
-The objective is not only theoretical understanding.
+Every major theoretical contribution should eventually support
 
-PDOS seeks engineering methods that can be implemented, validated, and reused.
+- engineering implementation,
+- experimental validation,
+- runtime deployment,
+- organizational simulation,
+- or practical applications.
 
 ---
 
@@ -267,32 +359,51 @@ PDOS seeks engineering methods that can be implemented, validated, and reused.
 
 The repository is expected to evolve continuously.
 
-Future work may refine terminology, organization, implementation strategies, and theoretical models while preserving the overall constitutional direction.
+Future work may refine
+
+terminology,
+
+engineering methodologies,
+
+runtime architectures,
+
+and application domains,
+
+while preserving the constitutional principles established here.
 
 ---
 
 ## Open Collaboration
 
-PDOS welcomes constructive discussion, implementation, validation, comparison, and extension by researchers from different disciplines.
+PDOS welcomes constructive discussion,
 
-The repository is intended as an evolving computational framework rather than a closed theoretical system.
+implementation,
+
+comparison,
+
+validation,
+
+and extension by researchers from different disciplines.
+
+The repository is intended to evolve as an open computational framework rather than a closed theoretical system.
 
 ---
 
 # Long-Term Direction
 
-PDOS seeks to establish organizational synthesis as a new computational discipline.
+The long-term objective of PDOS is to establish **Organizational Intelligence** as a foundational computational discipline.
 
 Future developments may include
 
-* organizational runtime systems
-* policy engineering methodologies
-* local organizational learning
-* organizational simulation
-* organizational ecology
-* hybrid AI organizational systems
-* biological organizational hypotheses
-* organizational computational primitives
+- organizational runtime systems,
+- policy engineering methodologies,
+- localized runtime learning,
+- organizational simulation,
+- organizational ecology,
+- Brain Unit ecosystems,
+- hybrid organizational AI,
+- organizational computational primitives,
+- and biologically inspired organizational intelligence.
 
 ---
 
@@ -300,10 +411,12 @@ Future developments may include
 
 Policy-Driven Organizational Synthesis represents a transition
 
-from organizing knowledge
+> **from organizing knowledge**
 
-to engineering organizational intelligence.
+to
 
-By treating organizational structures as explicit computational objects governed by policies, PDOS aims to provide a unified framework for understanding, constructing, evolving, and exploiting organization across both artificial and biological intelligent systems.
+> **engineering organizational intelligence.**
 
-This constitutional direction is expected to remain stable while the repository continues to grow through future theoretical developments, engineering implementations, experimental validation, and collaborative research.
+By treating organizational structures as explicit computational objects governed by policies, PDOS provides a unified framework for organizing, localizing, computing, learning, and continuously evolving intelligent systems.
+
+The constitutional principles presented in this document establish the stable foundation upon which future theoretical developments, engineering implementations, runtime architectures, experimental validation, and collaborative research within PDOS will continue to grow.

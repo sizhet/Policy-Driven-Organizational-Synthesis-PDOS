@@ -2,184 +2,208 @@
 
 # Policy-Driven Organizational Synthesis (PDOS)
 
-## Engineering Open-Domain Organizational Intelligence
+## Figure Index
+
+**Version 1.0**
 
 ---
 
-# Purpose
+# Introduction
 
-This document provides an index of all figures used throughout the **Policy-Driven Organizational Synthesis (PDOS)** repository.
+This document lists all figures included in the **Policy-Driven Organizational Synthesis (PDOS)** repository.
 
-The figures are intended to
+The figures are organized according to the repository architecture and are intended to illustrate the progressive development of
 
-* explain fundamental concepts,
-* illustrate organizational structures,
-* visualize computational workflows,
-* compare organizational strategies,
-* support engineering implementation,
-* and improve the overall readability of the repository.
+- Policy-Driven Organizational Synthesis,
+- Organizational Intelligence,
+- Organizational Computation,
+- Localized Runtime Intelligence,
+- and Organizational Evolution.
 
-Figures are organized according to repository structure.
-
----
-
-# Global Figures
-
-These figures introduce the overall concepts of the repository.
-
-
-| Figure      | Title  |
-|---|---|
-| **Fig-000** | What-Is-PDOS |
-| **Fig-001** | From Knowledge to Behavioral Instruments |
-| **Fig-002** | Organizational Compression versus Gap Bridging |
-| **Fig-003** | Toward Organizational Intelligence |
+Each Part contains one overview figure followed by figures corresponding to its major technical contributions.
 
 ---
 
-# Part I — Foundations (TBS)
+# Repository Overview
 
-## Figures
+| Figure | Title | Description |
+|----------|-------|-------------|
+| **Fig-000** | Policy-Driven Organizational Synthesis | Repository overview illustrating the complete computational architecture of PDOS. |
+| **Fig-001** | The Organizational Intelligence Landscape | Positions PDOS within the broader Structural Intelligence research framework. |
+| **Fig-002** | From Knowledge Organization to Organizational Intelligence | Illustrates the conceptual evolution from computational organization toward organizational computation. |
+| **Fig-003** | From Organizational Intelligence to Organizational Computation | Presents the complete computational pipeline developed throughout the repository. |
 
-| Figure      | Title  |
-|---|---|
-| **Fig-100** | Part I—Foundations |
-| **Fig-101** | Why Policy-Driven Organizational Synthesis |
-| **Fig-102** | From Knowledge Organization to Organizational Intelligence |
-| **Fig-103** | Organization as Computation |
-| **Fig-104** | Policy as a Computational Primitive |
-| **Fig-105** | Open Domain Organizational Intelligence |
+---
+
+# Part I — Foundations
+
+## The Foundational Principles of Policy-Driven Organizational Synthesis
+
+| Figure | Title | Description |
+|----------|-------|-------------|
+| **Fig-100** | Part I — Foundations | Repository overview of the foundational principles of PDOS. |
+| **Fig-101** | Why Policy-Driven Organizational Synthesis? | Introduces the motivation for policy-driven organizational computation. |
+| **Fig-102** | From Knowledge Organization to Organizational Intelligence | Illustrates the evolution from Knowledge Organization toward Organizational Intelligence. |
+| **Fig-103** | Organization as Computation | Shows organization as an active computational mechanism rather than passive information management. |
+| **Fig-104** | Policy as a Computational Primitive | Demonstrates how policy governs organizational synthesis, routing, and evolution. |
+| **Fig-105** | Open-Domain Organizational Intelligence | Summarizes the foundational architecture supporting organizational intelligence in open-domain environments. |
 
 ---
 
 # Part II — From Knowledge Organization to Triggering Economy
 
-## Figures
+## Organizational Value and Computational Economics
 
-| Figure      | Title  |
-|---|---|
-| **Fig-200** | From Knowledge Organization to Triggering Economy |
-| **Fig-201** |	Triggering as the Currency of Intelligence |
-| **Fig-202** |	Triggering Cost and Runtime Economics |
-| **Fig-203** |	Organizational Policies as Runtime Infrastructure |
-| **Fig-204** |	Policy-Driven Triggering Agents |
-| **Fig-205** |	AI Triggering Economy Ecosystem |
-| **Fig-206** |	Personal and Enterprise Triggering Economies |
-| **Fig-207** |	Triggering Economy Landscape |
-
----
-
-# Part III — Part-III - Policy-Driven Runtime Architecture
-
-## Figures
-
-| Figure      | Title  |
-|---|---|
-| **Fig-300** | Engineering the Triggering Economy |
-| **Fig-301** | Organizational Runtime Pipeline |
-| **Fig-302** | Policy Runtime Engine |
-| **Fig-303** | Trigger Selection and Dispatch |
-| **Fig-304** | Runtime Organizational Graphs |
-| **Fig-305** | Organizational Feedback and Validation |
-| **Fig-306** | Runtime Policy Evolution |
-| **Fig-307** | Organizational Runtime APIs |
-| **Fig-308** | Reference Runtime Architecture |
-| **Fig-309** | Part-III Summary—Policy Driven Runtime Architecture |
+| Figure | Title | Description |
+|----------|-------|-------------|
+| **Fig-200** | Part II — Triggering Economy | Repository overview of organizational triggering and computational value. |
+| **Fig-201** | Triggering as Organizational Currency | Explains triggering as the fundamental computational currency of organizational intelligence. |
+| **Fig-202** | Organizational Triggering Economics | Illustrates organizational cost, benefit, and triggering efficiency. |
+| **Fig-203** | Policy-Driven Triggering Infrastructure | Shows policies coordinating organizational triggering. |
+| **Fig-204** | Triggering Agents | Introduces organizational triggering agents operating over policy-driven structures. |
+| **Fig-205** | Organizational AI Services | Illustrates AI services built upon organizational triggering. |
+| **Fig-206** | Organizational Runtime Feedback | Demonstrates organizational validation through runtime feedback. |
+| **Fig-207** | Runtime Policy Evolution | Illustrates continuous refinement of policies through organizational experience. |
 
 ---
 
-# Part-IV - Toward Organizational Intelligence
+# Part III — Policy-Driven Runtime Architecture
 
-## Figures
+## Engineering Runtime Organizational Systems
 
-| Figure      | Title  |
-|---|---|
-| **Fig-400** | Part-IV Overview—Toward Organizational Intelligence |
-| **Fig-401** | What Is Policy Driven Organizational Synthesis |
-| **Fig-402** | From Knowledge to Behavioral Instruments |
-| **Fig-403** | Organizational Compression versus Gap Bridging |
-| **Fig-404** | Policy as Perspective—One Dataset Multiple Tool Trees |
-| **Fig-405** | Perspective Validation and Structural Coverage |
-| **Fig-406** | From Computational Infrastructure to Organizational Infrastructure |
-| **Fig-407** | Recursive Organizational Synthesis |
-| **Fig-408** | Automation Extension and Scale—Toward Organizational Intelligence
+| Figure | Title | Description |
+|----------|-------|-------------|
+| **Fig-300** | Part III — Runtime Architecture | Repository overview of runtime organizational engineering. |
+| **Fig-301** | Organizational Runtime Pipeline | Runtime execution pipeline for policy-driven organizations. |
+| **Fig-302** | Policy Runtime Engine | Execution engine supporting organizational computation. |
+| **Fig-303** | Organizational Dispatch | Dispatch mechanisms operating over organizational structures. |
+| **Fig-304** | Organizational Runtime Graphs | Runtime interaction graph among organizational components. |
+| **Fig-305** | Organizational Validation Loop | Runtime validation and feedback architecture. |
+| **Fig-306** | Runtime Policy Evolution | Continuous refinement of runtime organizational policies. |
+| **Fig-307** | Organizational Runtime APIs | Engineering interfaces supporting organizational computation. |
+| **Fig-308** | Reference Runtime Architecture | Complete engineering blueprint of the PDOS runtime system. |
+| **Fig-309** | Part III Summary | Integrated runtime organizational architecture. |
+
+---
+
+# Part IV — Toward Organizational Intelligence
+
+## Policy Perspectives and Organizational Computation
+
+| Figure | Title | Description |
+|----------|-------|-------------|
+| **Fig-400** | Part IV — Organizational Intelligence | Repository overview of Organizational Intelligence. |
+| **Fig-401** | From Knowledge to Behavioral Instruments | Knowledge transformed into executable organizational instruments. |
+| **Fig-402** | Organizational Compression | Organizational abstraction versus trajectory-based computation. |
+| **Fig-403** | Policy as Perspective | Different policy perspectives producing different organizational structures. |
+| **Fig-404** | Structural Coverage | Evaluating organizational coverage under alternative policy perspectives. |
+| **Fig-405** | Organizational Synthesis Loop | Recursive synthesis and organizational refinement. |
+| **Fig-406** | Toward Organizational Intelligence | Evolution from organizational synthesis toward organizational intelligence. |
+| **Fig-407** | PDOS Shadow Transformer Architecture | Organizational interpretation of transformer-style runtime computation. |
 
 ---
 
 # Part V — Localized Runtime Intelligence
 
+## Computation, Decision, and Learning over Policy-Driven Organizations
+
 | Figure | Title | Description |
-|---------|-------|-------------|
-| Fig-500 | Localized Runtime Intelligence | Repository overview of Part V. |
-| Fig-501 | From Organizational Routing to Localized Runtime Intelligence | Transition from organizational routing to runtime intelligence. |
-| Fig-502 | The Per-Node X–Y–M Runtime Memory | Runtime memory maintained by localized organizational nodes. |
-| Fig-503 | Decision Landscapes over Localized Runtime Memories | Runtime computational landscapes constructed from X–Y–M experiences. |
-| Fig-504 | Unified Dispatch Framework | Unified interpretation of dispatch methods operating over Decision Landscapes. |
-| Fig-505 | Localized Runtime Learning Loop | Continuous runtime learning over localized organizational nodes. |
-| Fig-506 | From Localized Runtime Intelligence to Brain Units | Emergence of specialized computational units through localized runtime learning. |
-| Fig-507 | Multi-Policy Runtime Forest | Multiple organizational perspectives supporting robust runtime intelligence. |
-| Fig-508 | Closed-Loop Runtime Organization | Continuous organizational evolution through runtime feedback. |
-| Fig-509 | Localized Runtime Intelligence in the Structural Intelligence Landscape | Position of Part V within the Structural Intelligence framework. |
+|----------|-------|-------------|
+| **Fig-500** | Localized Runtime Intelligence | Repository overview illustrating the complete runtime computational architecture developed in Part V. |
+| **Fig-501** | From Organizational Routing to Localized Runtime Intelligence | Transition from organizational routing to localized runtime computation. |
+| **Fig-502** | The Per-Node X–Y–M Runtime Memory | Runtime memory maintained independently by localized organizational nodes. |
+| **Fig-503** | Decision Landscapes over Localized Runtime Memories | Runtime decision landscapes constructed from accumulated X–Y–M experiences. |
+| **Fig-504** | Unified Dispatch Framework | Unified view of Probability Dispatch, Two-Way CCC, Transformer, Hybrid, and future dispatch methods operating over Decision Landscapes. |
+| **Fig-505** | Localized Runtime Learning Loop | Continuous localized runtime learning driven by operational feedback. |
+| **Fig-506** | From Localized Runtime Intelligence to Brain Units | Emergence of specialized Brain Units through localized runtime learning. |
+| **Fig-507** | Multi-Policy Runtime Forest | Multiple policy perspectives cooperating through Policy Forests and Organizational Fusion. |
+| **Fig-508** | Closed-Loop Runtime Organization | Continuous organizational evolution integrating decision, learning, policy refinement, and organizational improvement. |
+| **Fig-509** | Localized Runtime Intelligence in the Structural Intelligence Landscape | Positions Part V within the complete Structural Intelligence framework. |
+
+---
 
 # Figure Numbering Convention
 
-The repository adopts the following numbering convention.
+Figures are organized according to repository structure.
 
-```text
-Fig-000 ~ Fig-099
-Global repository figures
+```
+Repository Overview
 
-Fig-100 ~ Fig-199
-Part I — Foundations
+Fig-000 — Fig-099
 
-Fig-200 ~ Fig-299
-Part II — From Knowledge Organization to Triggering Economy
+        ↓
 
-Fig-300 ~ Fig-399
-Part III — Policy-Driven Runtime Architecture
+Part I
 
-Fig-400 ~ Fig-499
-Part IV — Toward Organizational Intelligence
+Fig-100 — Fig-199
 
-Fig-500 ~ Fig-599
-Part V — Localized Runtime Intelligence
+        ↓
 
+Part II
 
-This numbering scheme is expected to remain stable as the repository expands.
+Fig-200 — Fig-299
 
----
+        ↓
 
-# Figure Design Principles
+Part III
 
-All figures should follow several common principles.
+Fig-300 — Fig-399
 
-* Emphasize organizational structures rather than implementation details.
-* Favor explicit workflows over black-box abstractions.
-* Clearly distinguish **Policy**, **Organization**, **Runtime**, and **Evolution**.
-* Reuse common visual vocabulary across the Structural Intelligence repositories.
-* Support both conceptual understanding and engineering implementation.
-* Remain readable as standalone illustrations.
+        ↓
 
----
+Part IV
 
-# Relationship to Companion Repositories
+Fig-400 — Fig-499
 
-Several figures intentionally complement diagrams appearing in companion repositories.
+        ↓
 
-* **CKOI** provides the computational organizational infrastructure.
-* **PDOS** illustrates policy-driven organizational synthesis.
-* **GTDO** illustrates computational organization and dispatch.
-* **FTRIS** illustrates runtime switching.
-* **RCP** illustrates reusable runtime computational primitives.
+Part V
 
-Together these figures progressively visualize the Structural Intelligence architecture from representation to runtime computation.
+Fig-500 — Fig-599
+```
+
+This numbering scheme allows future expansion while preserving long-term stability.
 
 ---
 
-# Closing Remarks
+# Reading Recommendation
 
-Figures are an essential component of PDOS.
+Readers are encouraged to browse the figures in numerical order.
 
-Rather than merely decorating the accompanying text, they serve as explicit computational models that communicate organizational principles, policy interactions, runtime behavior, and organizational evolution in a compact and reusable form.
+The complete visual progression may be summarized as
 
-As the repository evolves, additional figures will be introduced while preserving the numbering scheme and overall architectural consistency established in this index.
+```
+Repository Overview
+
+        ↓
+
+Foundations
+
+        ↓
+
+Triggering Economy
+
+        ↓
+
+Runtime Architecture
+
+        ↓
+
+Organizational Intelligence
+
+        ↓
+
+Localized Runtime Intelligence
+```
+
+Together, these figures provide a visual summary of the complete computational framework developed throughout the PDOS repository.
+
+---
+
+# Summary
+
+The figures in this repository are designed to complement the accompanying manuscripts rather than replace them.
+
+Each figure introduces one major computational concept and serves as a visual anchor for its corresponding article.
+
+Collectively, the complete figure set illustrates the evolution of Policy-Driven Organizational Synthesis from foundational organizational principles to Localized Runtime Intelligence and continuously evolving organizational computation, providing a coherent visual architecture for the entire PDOS framework.

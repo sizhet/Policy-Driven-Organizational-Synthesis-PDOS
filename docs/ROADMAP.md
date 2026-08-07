@@ -2,304 +2,382 @@
 
 # Policy-Driven Organizational Synthesis (PDOS)
 
-## Engineering Open-Domain Organizational Intelligence
+## Repository Roadmap
+
+**Version 1.0**
 
 ---
 
-# Purpose
+# Vision
 
-This roadmap describes the long-term development plan for the **Policy-Driven Organizational Synthesis (PDOS)** repository.
+The long-term vision of **Policy-Driven Organizational Synthesis (PDOS)** is to establish **Organizational Intelligence** as a foundational computational discipline.
 
-PDOS is intended to become a systematic computational framework for understanding, engineering, and evolving organizational intelligence.
+Rather than treating organization as static infrastructure or passive information management, PDOS investigates how organizations can be explicitly synthesized, computationally exploited, continuously improved, and progressively evolved under explicit policies.
 
-Unlike repositories focused on individual algorithms, PDOS is expected to grow progressively as new organizational principles, engineering methods, and runtime applications are discovered.
+The repository aims to provide both the theoretical foundations and engineering methodologies required for future organizational AI systems.
 
 ---
 
 # Development Philosophy
 
-PDOS follows four long-term development principles.
-
-## 1. Stable Foundations
-
-The constitutional principles should remain stable.
-
-Future work should extend the framework rather than repeatedly redefine it.
+PDOS follows five long-term development principles.
 
 ---
 
-## 2. Progressive Evolution
+## 1. Stable Constitutional Foundations
 
-New concepts should naturally extend existing organizational principles.
+The constitutional principles established in **CONSTITUTION.md** should remain stable.
 
-The repository should evolve through continuous refinement rather than disruptive redesign.
+Future work should expand the framework rather than repeatedly redefining its fundamental assumptions.
 
----
-
-## 3. Engineering Orientation
-
-Every major theoretical contribution should eventually support
-
-* engineering implementation,
-* computational experiments,
-* organizational simulation,
-* runtime validation,
-* or practical applications.
+The long-term architectural direction of PDOS should remain consistent even as engineering methodologies evolve.
 
 ---
 
-## 4. Explainability
+## 2. Progressive Architectural Evolution
 
-Organizational structures should remain explicit, understandable, and reusable whenever practical.
+PDOS is designed to evolve through progressive refinement.
 
-Explainability is considered a long-term engineering objective rather than an optional feature.
+New theories,
 
----
+engineering methods,
 
-# Phase I
+runtime architectures,
 
-## Establish the Foundations
+and computational models should naturally extend existing concepts while preserving conceptual continuity.
 
-Current Objectives
-
-* Establish the PDOS terminology.
-* Define organizational intelligence.
-* Define policy-driven organizational synthesis.
-* Distinguish PDOS from CKOI.
-* Introduce organizational evolution.
-* Establish open-domain organizational intelligence.
-* Complete the foundational repository documents.
-
-Deliverables
-
-* README
-* START-HERE
-* CONSTITUTION
-* OUTLINE
-* ROADMAP
-* CONTENTS
-* FIGURE-INDEX
-* Part I manuscripts
-
-Status
-
-**Current Phase**
+The repository should grow organically rather than through disruptive redesign.
 
 ---
 
-# Phase II
+## 3. Engineering-Oriented Research
 
-## From Knowledge Organization to Triggering Economy
+Every major theoretical contribution should eventually support one or more of the following:
 
-(TBD) -- rewrite ****
+- engineering implementation,
+- runtime systems,
+- computational experiments,
+- organizational simulation,
+- software architecture,
+- enterprise applications,
+- autonomous intelligent systems,
+- or scientific discovery.
 
-Objectives
-
-Develop the theoretical foundations of organizational synthesis.
-
-Topics include
-
-* organizational policies
-* policy engineering
-* organizational objectives
-* organizational operators
-* organizational optimization
-* organizational constraints
-* organizational explainability
-* organizational comparison
-
-Expected Outcome
-
-A coherent computational theory of organizational synthesis.
+Engineering applicability is considered a primary research objective.
 
 ---
 
-# Phase III
+## 4. Explainable Organizational Intelligence
 
-## Policy-Driven Runtime Architecture
+Whenever practical,
 
-(TBD) -- rewrite ****
+organizational structures should remain
 
-Objectives
+- explicit,
+- interpretable,
+- reusable,
+- composable,
+- and explainable.
 
-Connect synthesized organizations with runtime computation.
-
-Topics include
-
-* runtime organization
-* runtime organizational learning
-* organizational dispatch
-* organizational switching
-* local organizational intelligence
-* organizational runtime ecology
-
-Relationship
-
-Strong integration with
-
-* GTDO
-* FTRIS
-* Runtime Computational Primitives
-
-Expected Outcome
-
-A unified runtime organizational framework.
+Explainability is treated as an engineering requirement rather than an optional feature.
 
 ---
 
-# Phase IV
+## 5. Continuous Organizational Evolution
 
-## Toward Organizational Intelligence
+Organizations should continuously improve through runtime experience.
 
-(TBD) -- rewrite ****
+PDOS therefore emphasizes
 
-Objectives
+- localized learning,
+- policy refinement,
+- organizational adaptation,
+- and organizational evolution
 
-Translate PDOS into engineering methodologies.
-
-Potential directions include
-
-* software architectures
-* enterprise organization
-* AI development workflows
-* autonomous systems
-* organizational simulation
-* strategy design
-* scientific knowledge organization
-
-Expected Outcome
-
-Reusable engineering methods based on organizational synthesis.
+as intrinsic components of intelligent computation.
 
 ---
 
-# Phase V
+# Repository Development Roadmap
 
-## Localized Runtime Intelligence
+The repository currently develops five progressively connected computational layers.
 
-Phase V establishes the computational foundation of Localized Runtime Intelligence.
+```
+Part I
 
-The repository now covers
+Foundations
 
-- Policy-Driven Organization
-- Runtime Decision
-- Runtime Learning
-- Brain Units
-- Multi-Policy Runtime Intelligence
-- Closed-Loop Organizational Evolution
+        ↓
 
-forming the first complete computational framework of Policy-Driven Organizational Synthesis.
+Part II
+
+Triggering Economy
+
+        ↓
+
+Part III
+
+Policy-Driven Runtime Architecture
+
+        ↓
+
+Part IV
+
+Organizational Intelligence
+
+        ↓
+
+Part V
+
+Localized Runtime Intelligence
+```
+
+Together,
+
+these five Parts establish the first-generation theoretical foundation of Policy-Driven Organizational Synthesis.
 
 ---
 
-# Future Research Themes
+# Current Milestone (Version 1.0)
 
-Future research may include
+The current repository establishes the following computational framework.
 
-## Organizational Policies
+## Foundations
 
-How policies generate organizational structures.
+✓ Organization as Computation
 
----
+✓ Policy as a Computational Primitive
 
-## Difference Trees
+✓ Organizational Intelligence
 
-Difference Trees as reusable computational assets.
-
----
-
-## Organizational Operators
-
-Primitive operators for organizational synthesis.
+✓ Open-Domain Organizational Intelligence
 
 ---
 
-## Organizational Metrics
+## Organizational Infrastructure
 
-Measuring organizational quality, adaptability, and effectiveness.
+✓ Triggering Economy
+
+✓ Organizational Policies
+
+✓ Organizational Routing
+
+✓ Organizational Runtime Architecture
+
+✓ Organizational Runtime APIs
+
+---
+
+## Runtime Intelligence
+
+✓ Per-Node Runtime Memory
+
+✓ Decision Landscapes
+
+✓ Unified Dispatch Framework
+
+✓ Localized Runtime Learning
+
+✓ Brain Units
+
+✓ Multi-Policy Runtime Intelligence
+
+✓ Closed-Loop Runtime Organizations
+
+---
+
+The repository now provides a complete theoretical framework connecting
+
+policy,
+
+organization,
+
+runtime computation,
+
+continuous learning,
+
+and organizational evolution.
+
+---
+
+# Future Engineering Directions
+
+Future engineering work may include
+
+## Organizational Runtime Platforms
+
+Develop practical runtime platforms capable of executing policy-driven organizations directly.
 
 ---
 
 ## Organizational Simulation
 
-Simulating alternative organizational strategies under different policies.
+Develop simulation environments for comparing alternative organizational strategies under different policy perspectives.
 
 ---
 
-## Organizational Evolution
+## Organizational APIs
 
-Continuous refinement of organizational structures through runtime feedback.
+Develop reusable APIs supporting
 
----
-
-## Local Organizational Intelligence
-
-Independent organizational learning within localized computational regions.
-
----
-
-## Organizational Ecology
-
-Interactions among multiple synthesized organizations.
+- organizational routing,
+- runtime dispatch,
+- localized learning,
+- policy evolution,
+- and organizational cooperation.
 
 ---
 
-## Biological Organizational Intelligence
+## Organizational Validation
 
-PDOS as a computational hypothesis for localized organizational mechanisms in biological intelligence.
+Develop systematic methodologies for
+
+- structural validation,
+- policy validation,
+- organizational coverage,
+- organizational robustness,
+- and runtime confidence estimation.
+
+---
+
+## Organizational Visualization
+
+Develop interactive visualization systems supporting
+
+- organizational structures,
+- Difference Trees,
+- Decision Landscapes,
+- Brain Unit ecosystems,
+- and runtime organizational evolution.
+
+---
+
+# Future Research Directions
+
+The current repository establishes the foundation for numerous future research topics.
+
+Major directions include
+
+- policy engineering,
+- Difference Trees,
+- organizational routing algorithms,
+- organizational optimization,
+- Decision Landscape theory,
+- runtime dispatch methods,
+- localized runtime learning,
+- Brain Unit cooperation,
+- organizational ecology,
+- organizational computational primitives,
+- hybrid organizational AI,
+- biologically inspired organizational intelligence,
+- and self-evolving organizational systems.
+
+These directions naturally extend the architectural framework established in Version 1.0.
 
 ---
 
 # Relationship with Companion Repositories
 
-PDOS is designed to complement—not replace—other repositories in the Structural Intelligence series.
+PDOS forms the organizational computation layer within the broader Structural Intelligence framework.
 
-```text
-UTN
+```
+Universal Typing and Naming (UTN)
+
         ↓
-CKOI
+
+Computational Knowledge Organization and Infrastructure (CKOI)
+
         ↓
-PDOS
+
+Policy-Driven Organizational Synthesis (PDOS)
+
         ↓
-GTDO
+
+Goal-Oriented Training Data Organization (GTDO)
+
         ↓
-FTRIS
+
+Structure and Dynamics of FTRI Switching (FTRIS)
+
         ↓
-RCP
+
+Runtime Computational Primitives (RCP)
 ```
 
-Each repository contributes a distinct computational layer.
+Each repository investigates one computational layer.
 
-Together they describe a progressively richer structural computational architecture.
+Together,
+
+they establish a progressively richer computational architecture extending from representation to runtime computation.
 
 ---
 
-# Long-Term Vision
+# Long-Term Research Objectives
 
-The long-term vision of PDOS is to establish **Policy-Driven Organizational Synthesis** as a foundational discipline for computational organization.
+The long-term objectives of PDOS include
 
-Future systems may increasingly rely on explicit organizational synthesis rather than static organizational design.
+- establishing Organizational Intelligence as a computational discipline,
+- developing reusable organizational engineering methodologies,
+- enabling organization-aware AI systems,
+- connecting organization with runtime computation,
+- supporting localized runtime intelligence,
+- developing Brain Unit ecosystems,
+- enabling continuous organizational evolution,
+- supporting hybrid organizational AI,
+- and exploring computational hypotheses for biological organizational intelligence.
 
-In this vision,
+---
 
-organizations become computational assets,
+# Looking Beyond Version 1.0
 
-policies become engineering instruments,
+Version 1.0 establishes the conceptual foundations of Policy-Driven Organizational Synthesis.
 
-and organizational intelligence becomes an essential component of intelligent computation.
+Future versions may increasingly emphasize
 
-PDOS seeks to provide the conceptual and engineering foundation for that future.
+- engineering implementations,
+- experimental validation,
+- software systems,
+- organizational operating environments,
+- runtime infrastructures,
+- enterprise applications,
+- and large-scale organizational AI ecosystems.
 
-# Current milestone
+The long-term objective is to transform Policy-Driven Organizational Synthesis from a theoretical framework into a practical engineering discipline.
 
-✓ Policy-Driven Organizational Synthesis
-✓ Triggering Economy
-✓ Organizational Policies
-✓ Policy-Driven Triggering Agents
+---
 
-Next milestone
+# Repository Evolution Strategy
 
-Runtime Organizational Infrastructure
-Policy Runtime Engine
-Triggering Protocol
-Reference Implementation
+Future development should follow one guiding principle:
+
+```
+Stable Principles
+
+        ↓
+
+Progressive Engineering
+
+        ↓
+
+Runtime Validation
+
+        ↓
+
+Continuous Organizational Evolution
+```
+
+The constitutional principles should remain stable.
+
+Engineering methodologies should progressively improve.
+
+Runtime evidence should continuously refine organizational quality.
+
+The repository should evolve through incremental architectural growth rather than conceptual replacement.
+
+---
+
+# Closing Statement
+
+Policy-Driven Organizational Synthesis seeks to establish a future in which intelligent systems are organized before they compute, localized before they learn, and continuously improved through organizational evolution.
+
+By integrating policy, organization, runtime computation, localized intelligence, and continuous organizational learning into one coherent computational architecture, PDOS provides a long-term roadmap toward scalable, explainable, and continuously evolving organizational AI systems.

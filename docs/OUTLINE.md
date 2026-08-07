@@ -2,7 +2,19 @@
 
 # Policy-Driven Organizational Synthesis (PDOS)
 
-## Engineering Open-Domain Organizational Intelligence
+## Repository Outline
+
+**Version 1.0**
+
+---
+
+# Repository Mission
+
+Policy-Driven Organizational Synthesis (PDOS) investigates how organizational structures can be explicitly synthesized, computationally exploited, continuously improved, and progressively evolved under explicit policies.
+
+Rather than treating organization as passive information management, PDOS establishes organization itself as an active computational mechanism that localizes computation, guides runtime intelligence, and supports continuous organizational evolution.
+
+The repository progressively develops the theoretical and engineering foundations of **Organizational Intelligence**.
 
 ---
 
@@ -10,230 +22,307 @@
 
 The repository is organized into five progressively connected parts.
 
-Each part builds upon the previous one while introducing a higher level of organizational intelligence.
-
-```text
+```
 Part I
 Foundations
+
         ↓
+
 Part II
 From Knowledge Organization to Triggering Economy
+
         ↓
+
 Part III
 Policy-Driven Runtime Architecture
+
         ↓
+
 Part IV
 Toward Organizational Intelligence
+
         ↓
+
 Part V
 Localized Runtime Intelligence
 ```
+
+Each part introduces a new computational layer while preserving continuity with the previous parts.
 
 ---
 
 # Part I — Foundations
 
-PDOS-001 — Why Policy-Driven Organizational Synthesis?
+## The Foundational Principles of Policy-Driven Organizational Synthesis
 
-PDOS-002 — From Knowledge Organization to Organizational Intelligence
+Purpose
 
-PDOS-003 — Organization as Computation
+Establish the conceptual foundations of PDOS.
 
-PDOS-004 — Policy as a Computational Primitive
+Major topics
 
-PDOS-005 — Open-Domain Organizational Intelligence
+- Why Policy-Driven Organizational Synthesis
+- Organizational Intelligence
+- Organization as Computation
+- Policy as a Computational Primitive
+- Open-Domain Organizational Intelligence
+
+Articles
+
+- PDOS-001 — Why Policy-Driven Organizational Synthesis?
+- PDOS-002 — From Knowledge Organization to Organizational Intelligence
+- PDOS-003 — Organization as Computation
+- PDOS-004 — Policy as a Computational Primitive
+- PDOS-005 — Open-Domain Organizational Intelligence
+
+Primary Outcome
+
+Organization becomes a computational object.
 
 ---
 
 # Part II — From Knowledge Organization to Triggering Economy
 
-PDOS-101 — From Knowledge Organization to Triggering Economy
+Purpose
 
-PDOS-102 — Triggering as the Currency of Intelligence
+Develop the theoretical framework of policy-driven organizational synthesis and demonstrate how organizational structures generate computational and economic value.
 
-PDOS-103 — Triggering Cost and Computational Economics
+Major topics
 
-PDOS-104 — Organizational Policies as Triggering Infrastructure
+- Organizational Triggering
+- Triggering Economy
+- Triggering Cost
+- Organizational Policies
+- Triggering Agents
+- AI Services
+- Enterprise Organizations
+- Open Organizational Ecosystems
 
-PDOS-105 — Policy-Driven Triggering Agents
+Articles
 
-PDOS-106 — The Triggering Economy for AI Services
+- PDOS-101 — PDOS and the Triggering Economy
+- PDOS-102 — Triggering as Organizational Value
+- PDOS-103 — Triggering Cost and Organizational Economics
+- PDOS-104 — Policies as Triggering Infrastructure
+- PDOS-105 — Triggering Agents
+- PDOS-106 — AI Services over Organizational Structures
+- PDOS-107 — Brain Units and Personal Organizational Intelligence
+- PDOS-108 — Enterprise Organizational Intelligence
+- PDOS-109 — Open Organizational Ecosystems
+- PDOS-110 — Summary
 
-PDOS-107 — Brain Units and Personal Triggering Economies
+Primary Outcome
 
-PDOS-108 — Enterprise Triggering Economies
-
-PDOS-109 — Open Triggering Ecosystems
-
-PDOS-110 — Summary
+Organizations become computational and economic infrastructure.
 
 ---
 
 # Part III — Policy-Driven Runtime Architecture
 
-PDOS-201 — Engineering the Triggering Economy
+Purpose
 
-PDOS-202 — Organizational Runtime Pipeline
+Translate organizational synthesis into engineering runtime architectures.
 
-PDOS-203 — Policy Runtime Engine
+Major topics
 
-PDOS-204 — Trigger Selection and Dispatch
+- Runtime Organizational Pipelines
+- Runtime Dispatch
+- Organizational Runtime APIs
+- Runtime Validation
+- Reference Runtime Architecture
 
-PDOS-205 — Runtime Organizational Graphs
+Articles
 
-PDOS-206 — Organizational Feedback and Validation
+- PDOS-201 — Runtime Organizational Pipelines
+- PDOS-202 — Organizational Dispatch
+- PDOS-203 — Organizational Runtime Validation
+- PDOS-204 — Runtime Policy Evolution
+- PDOS-205 — Organizational Runtime APIs
+- PDOS-206 — Organizational Feedback and Validation
+- PDOS-207 — Runtime Policy Evolution
+- PDOS-208 — Organizational Runtime APIs
+- PDOS-209 — Reference Runtime Architecture
+- PDOS-210 — Summary
 
-PDOS-207 — Runtime Policy Evolution
+Primary Outcome
 
-PDOS-208 — Organizational Runtime APIs
-
-PDOS-209 — Reference Runtime Architecture
-
-PDOS-210 — Summaryn
+Organizations become executable runtime systems.
 
 ---
 
 # Part IV — Toward Organizational Intelligence
 
-PDOS-401 — What Is Policy-Driven Organizational Synthesis
+Purpose
 
-PDOS-402 — From Knowledge to Behavioral Instruments
+Generalize organizational synthesis into a broader computational theory of Organizational Intelligence.
 
-PDOS-403 — Organizational Compression versus Trajectory Compression
+Major topics
 
-PDOS-404 — Policy as Perspective
+- Policy Perspectives
+- Organizational Compression
+- Organizational Coverage
+- Recursive Organizational Synthesis
+- Organizational Intelligence
+- Future AI Systems
 
-PDOS-405 — Structural Coverage and Perspective Validation
+Representative Articles
 
-PDOS-406 — From Computational Tools to Organizational Instruments
+- PDOS-401 — Why Organizational Intelligence?
+- PDOS-402 — Organizational Perspectives
+- PDOS-403 — Organizational Compression
+- PDOS-404 — Structural Coverage
+- PDOS-405 — Recursive Organizational Synthesis
+- PDOS-406 — Organizational Intelligence and AI
+- PDOS-407 — Organizational Intelligence as Infrastructure
+- PDOS-408 — Organizational Intelligence for Open-Domain AI
+- PDOS-409 — Policy-Driven Organizational Runtime Intelligence
+- PDOS-410 — Summary
 
-PDOS-407 — Recursive Organizational Synthesis
+Primary Outcome
 
-PDOS-408 — Toward Organizational Intelligence
-
-PDOS-409 — Why PDOS Is a Plausible Organizational Computation Framework
-
-PDOS-410 — PDOS Shadow Transformer Architecture
+Organization becomes a primary form of computational intelligence.
 
 ---
 
 # Part V — Localized Runtime Intelligence
 
-Computation, Decision, and Learning over Policy-Driven Organizations
+## Computation, Decision, and Learning over Policy-Driven Organizations
 
-PDOS-501 — From Organizational Intelligence to Localized Runtime Intelligence
+Purpose
 
-PDOS-502 — Per-Node X–Y–M Runtime Memory
+Establish the runtime computational framework operating over policy-driven organizational structures.
 
-PDOS-503 — Decision Landscapes
+Major topics
 
-PDOS-504 — Unified Dispatch Methods
+- Per-Node Runtime Memory
+- Decision Landscapes
+- Unified Dispatch Methods
+- Localized Runtime Learning
+- Brain Units
+- Multi-Policy Runtime Intelligence
+- Closed-Loop Runtime Organizations
 
-PDOS-505 — Localized Runtime Learning
+Articles
 
-PDOS-506 — Brain Units and Localized Intelligence
+- PDOS-501 — From Organizational Intelligence to Localized Runtime Intelligence
+- PDOS-502 — Per-Node X–Y–M Runtime Memory
+- PDOS-503 — Decision Landscapes
+- PDOS-504 — Unified Dispatch Methods
+- PDOS-505 — Localized Runtime Learning
+- PDOS-506 — Brain Units and Localized Intelligence
+- PDOS-507 — Multi-Policy Runtime Intelligence
+- PDOS-508 — Closed-Loop Runtime Organizations
+- PDOS-509 — Localized Runtime Intelligence
 
-PDOS-507 — Multi-Policy Runtime Intelligence
+Primary Outcome
 
-PDOS-508 — Closed-Loop Runtime Organizations
-
-PDOS-509 — Localized Runtime Intelligence
+Organization and runtime computation become one unified computational architecture.
 
 ---
 
-# Repository Relationships
+# Progressive Computational Evolution
 
-PDOS occupies the organizational intelligence layer within the Structural Intelligence series.
+The conceptual progression developed throughout the repository may be summarized as
 
-```text
+```
+Policy
+
+        ↓
+
+Organization
+
+        ↓
+
+Organizational Routing
+
+        ↓
+
+Localized Runtime Intelligence
+
+        ↓
+
+Continuous Runtime Learning
+
+        ↓
+
+Brain Units
+
+        ↓
+
+Multi-Policy Intelligence
+
+        ↓
+
+Organizational Evolution
+```
+
+This progression represents the central computational architecture established by PDOS.
+
+---
+
+# Relationship with Companion Repositories
+
+PDOS occupies the organizational computation layer within the broader Structural Intelligence framework.
+
+```
 Universal Typing and Naming (UTN)
-                ↓
+
+        ↓
+
 Computational Knowledge Organization and Infrastructure (CKOI)
-                ↓
+
+        ↓
+
 Policy-Driven Organizational Synthesis (PDOS)
-                ↓
+
+        ↓
+
 Goal-Oriented Training Data Organization (GTDO)
-                ↓
+
+        ↓
+
 Structure and Dynamics of FTRI Switching (FTRIS)
-                ↓
+
+        ↓
+
 Runtime Computational Primitives (RCP)
 ```
 
-Each repository studies a different computational layer while remaining conceptually compatible with the others.
+Each repository investigates a distinct computational layer.
+
+Together they establish a progressively richer framework for representation, organization, runtime computation, runtime switching, and computational primitives.
 
 ---
 
-# Research Themes
+# Long-Term Vision
 
-The repository develops several long-term research themes.
+The long-term objective of PDOS is to establish **Organizational Intelligence** as a foundational computational discipline.
 
-## Theme A
+Future work is expected to expand
 
-Policy-Driven Organizational Intelligence
+- policy engineering,
+- organizational routing,
+- Difference Trees,
+- localized runtime learning,
+- organizational simulation,
+- Brain Unit ecosystems,
+- organizational ecology,
+- hybrid organizational AI,
+- runtime organizational primitives,
+- and biologically inspired organizational intelligence.
 
----
-
-## Theme B
-
-Organizational Evolution
-
----
-
-## Theme C
-
-Difference Trees
-
----
-
-## Theme D
-
-Runtime Organization
+PDOS therefore provides both the theoretical foundation and the engineering direction for future organizational computation.
 
 ---
 
-## Theme E
+# Repository Summary
 
-Open-Domain Organizational Intelligence
+Policy-Driven Organizational Synthesis progressively develops a unified computational architecture in which
 
----
+- policies define organizational objectives,
+- organizations localize computation,
+- localized runtime intelligence performs computation,
+- runtime learning continuously improves organizational quality,
+- and organizational evolution enables sustainable intelligent systems.
 
-## Theme F
-
-Organizational Explainability
-
----
-
-## Theme G
-
-Organizational Computation
-
----
-
-## Theme H
-
-Biological Organizational Intelligence
-
----
-
-# Long-Term Objectives
-
-The long-term objectives of PDOS include
-
-* establishing organizational synthesis as a computational discipline;
-* providing explicit engineering methods for organizational intelligence;
-* connecting organizational synthesis with runtime computation;
-* enabling explainable organizational evolution;
-* supporting organization-aware AI systems;
-* developing organizational computational primitives;
-* exploring biological mechanisms of organizational intelligence;
-* extending computational intelligence beyond closed-domain optimization toward open-domain organizational growth.
-
----
-
-# Repository Evolution
-
-This outline is intentionally designed to evolve.
-
-Future articles may refine, merge, expand, or reorganize individual topics while preserving the overall architectural direction established by this outline.
-
-The long-term objective is to build a coherent and reusable body of knowledge for **Policy-Driven Organizational Synthesis (PDOS)** and its role within the broader Structural Intelligence framework.
+Together, the five Parts establish the first integrated framework for **Organizational Intelligence** and **Organizational Computation**, providing a scalable foundation for future open-domain intelligent systems.
